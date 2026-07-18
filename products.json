@@ -1,0 +1,4487 @@
+[
+  {
+    "id": 260,
+    "name": "500 mb etisalat",
+    "price": 1.12,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Etisalat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 1.12,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 9,
+    "name": "HAPİ🇦🇫🇮🇷",
+    "price": 1.2658227848101265e-6,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "HAPİ🇦🇫🇮🇷",
+    "available": true,
+    "qty_values": {
+      "min": "600000",
+      "max": "100000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 19,
+    "name": "Likee",
+    "price": 0.01818181818181818,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "50",
+      "max": "1000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 102,
+    "name": "1 جی بی ماهانه",
+    "price": 1.89,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 1.89,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 215,
+    "name": "Hilo diamond",
+    "price": 6.0e-7,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Hilo",
+    "available": false,
+    "qty_values": [
+      "1010000",
+      "2020000",
+      "5200000",
+      "10400000",
+      "21400000",
+      "54000000",
+      "110000000",
+      "165000000",
+      "220000000",
+      "330000000",
+      null
+    ],
+    "product_type": "specificPackage",
+    "parent_id": 23,
+    "base_price": 0.6,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 234,
+    "name": "Falla 100.000",
+    "price": 2.2,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Falla chat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 25,
+    "base_price": 2.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1761321221.webp"
+  },
+  {
+    "id": 237,
+    "name": "30.000",
+    "price": 1.3,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Farah star",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 28,
+    "base_price": 1.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1761341316.webp"
+  },
+  {
+    "id": 296,
+    "name": "Hapi🇹🇷🇩🇪",
+    "price": 1.2658227848101265e-6,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Hapi🇹🇷🇩🇪",
+    "available": true,
+    "qty_values": {
+      "min": "600000",
+      "max": "50000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 65,
+    "name": "Saya",
+    "price": 0.0001736842105263158,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 75,
+    "name": "PUBG Mobile 60 UC",
+    "price": 0.899,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "PUPG MOBİL",
+    "available": true,
+    "qty_values": {
+      "min": "1",
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 6,
+    "base_price": 0.899,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760525723.webp"
+  },
+  {
+    "id": 100,
+    "name": "1جی بی هفتوار",
+    "price": 1.96,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Etisalat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 1.96,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 244,
+    "name": "Hilo turkish",
+    "price": 6.0e-7,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": false,
+    "qty_values": [
+      "1010000",
+      "2020000",
+      "5200000",
+      "10400000",
+      "21400000",
+      "54000000",
+      "110000000",
+      "220000000",
+      "330000000"
+    ],
+    "product_type": "specificPackage",
+    "parent_id": 23,
+    "base_price": 0.6,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 11,
+    "name": "HAKİ APP",
+    "price": 0.0007605217391304347,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "2000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 87.46,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 49,
+    "name": "325 UC ربات",
+    "price": 4.81,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "PUPG MOBİL",
+    "available": true,
+    "qty_values": {
+      "min": "1",
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 6,
+    "base_price": 4.81,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760525723.webp"
+  },
+  {
+    "id": 144,
+    "name": "3.8 جی بی ماهانه",
+    "price": 4.79,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Etisalat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 4.79,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 214,
+    "name": "Hilo gifts",
+    "price": 0.1,
+    "params": [
+      "آیدی وارد کنید",
+      "مقدار شارژشده چیست ؟"
+    ],
+    "category_name": "Hilo",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 0.1,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 225,
+    "name": "Tik tok",
+    "price": 0.0143,
+    "params": [
+      "ایمیل و یا شماره",
+      "رمز تیک تاک"
+    ],
+    "category_name": "Tik tok",
+    "available": true,
+    "qty_values": {
+      "min": "2000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 14.3,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 29,
+    "name": "ligo live",
+    "price": 0.0012782051282051283,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 99.7,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 50,
+    "name": "660 UC ربات",
+    "price": 9.3,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "PUPG MOBİL",
+    "available": true,
+    "qty_values": {
+      "min": "1",
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 6,
+    "base_price": 9.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760525723.webp"
+  },
+  {
+    "id": 97,
+    "name": "Vilaa",
+    "price": 2.9606060606060607e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Vilaa",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 97.7,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 213,
+    "name": "تغییر آیدی",
+    "price": 0.1,
+    "params": [
+      "آیدی فعلی",
+      "آیدی جدید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 0.1,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 243,
+    "name": "1.6 جی بی ماهانه",
+    "price": 3,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Etisalat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 7,
+    "name": "Cocco Topup",
+    "price": 0.00010050761421319797,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Cocco Topup",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "2000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 99,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 17,
+    "name": "up fun",
+    "price": 4.201680672268908e-5,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "25000",
+      "max": "20000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 73,
+    "name": "1800 UC ربات",
+    "price": 22.71,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "PUPG MOBİL",
+    "available": true,
+    "qty_values": {
+      "min": "1",
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 6,
+    "base_price": 22.71,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760525723.webp"
+  },
+  {
+    "id": 329,
+    "name": "İmo s",
+    "price": 0.017543859649122806,
+    "params": [
+      "شماره با کود کشور"
+    ],
+    "category_name": "İmo s",
+    "available": true,
+    "qty_values": {
+      "min": "10",
+      "max": "40000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 79,
+    "name": "3850 UC",
+    "price": 44.94,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "PUPG MOBİL",
+    "available": false,
+    "qty_values": {
+      "min": 1,
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 6,
+    "base_price": 44.94,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760525723.webp"
+  },
+  {
+    "id": 146,
+    "name": "10 جی بی ماهانه",
+    "price": 9.16,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Etisalat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 9.16,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 241,
+    "name": "Junko",
+    "price": 2.1276595744680852e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "60000",
+      "max": "50000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 34,
+    "name": "Tango chat",
+    "price": 0.00532258064516129,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "500",
+      "max": "500000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 305,
+    "name": "سوحا",
+    "price": 2.0e-5,
+    "params": [
+      "UUİD"
+    ],
+    "category_name": "سوحا",
+    "available": true,
+    "qty_values": {
+      "min": "50000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 80,
+    "name": "8100 UC",
+    "price": 88.7,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "PUPG MOBİL",
+    "available": false,
+    "qty_values": {
+      "min": 1,
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 6,
+    "base_price": 88.7,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760525723.webp"
+  },
+  {
+    "id": 147,
+    "name": "12.5 جی بی ماهانه",
+    "price": 11,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Etisalat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 11,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 20,
+    "name": "Wego party",
+    "price": 8.440366972477065e-5,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "Wego party",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "10000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 92,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 148,
+    "name": "27 جی بی ماهانه",
+    "price": 18.33,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Etisalat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 18.33,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 258,
+    "name": "27 gb etisalat",
+    "price": 17.64,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Etisalat",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 17.64,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 16,
+    "name": "BIGO LIVE",
+    "price": 0.017864864864864865,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "BIGO LIVE",
+    "available": true,
+    "qty_values": {
+      "min": "50",
+      "max": "500000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 99.15,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 18,
+    "name": "Soul chill",
+    "price": 0.0017830882352941177,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "1000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 97,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 259,
+    "name": "40 gb etisalat",
+    "price": 22.66,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Etisalat",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 17,
+    "base_price": 22.66,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758832197.webp"
+  },
+  {
+    "id": 67,
+    "name": "Higo",
+    "price": 0.001075268817204301,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 245,
+    "name": "Yari",
+    "price": 1.59375e-6,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Yari",
+    "available": false,
+    "qty_values": {
+      "min": "500000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 22,
+    "name": "Oohla chat",
+    "price": 0.0007266187050359712,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1500",
+      "max": "2000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 30,
+    "name": "Lions chat",
+    "price": 0.00012496894409937887,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100.6,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 227,
+    "name": "Mr7ba",
+    "price": 1.03e-6,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Mr7ba",
+    "available": true,
+    "qty_values": {
+      "min": "5000000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 103,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 10,
+    "name": "DİTTO",
+    "price": 0.0002783783783783784,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "DİTTO",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "2000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 103,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 198,
+    "name": "Tami chat",
+    "price": 7.575757575757576e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "15000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 36,
+    "name": "POTA LIVE",
+    "price": 2.6493506493506494e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "50000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 293,
+    "name": "Seller wallet",
+    "price": 1,
+    "params": [
+      "Seller24 id"
+    ],
+    "category_name": "Seller wallet",
+    "available": true,
+    "qty_values": {
+      "min": "10",
+      "max": "1000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 304,
+    "name": "Mine of Chance",
+    "price": 2.8,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Mine of Chance",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 0,
+    "base_price": 2.8,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 44,
+    "name": "Kiyo live",
+    "price": 0.0003153846153846154,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "3000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 82,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 249,
+    "name": "DAWA CHAT",
+    "price": 1.6666666666666667e-5,
+    "params": [
+      "Enter your ID."
+    ],
+    "category_name": "DAWA CHAT",
+    "available": true,
+    "qty_values": {
+      "min": "100000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 269,
+    "name": "Zaffa live",
+    "price": 1.7241379310344828e-5,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Zaffa live",
+    "available": true,
+    "qty_values": {
+      "min": "55000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 203,
+    "name": "Waaw chat",
+    "price": 3.6e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "25000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 36,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 13,
+    "name": "İmo",
+    "price": 0.01800865800865801,
+    "params": [
+      "Enter the number with the comma."
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10",
+      "max": "40000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 1040,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 77,
+    "name": "حواله افغانی",
+    "price": 0.015725743041358705,
+    "params": [
+      "فرستنده",
+      "گیرنده",
+      "آدرس مقصد"
+    ],
+    "category_name": "حواله افغانی",
+    "available": false,
+    "qty_values": {
+      "min": "1360",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 178,
+    "name": "حواله دالر",
+    "price": 1,
+    "params": [
+      "فرستنده",
+      "اسم گیرنده",
+      "آدرس مقصد"
+    ],
+    "category_name": "حواله دالر",
+    "available": false,
+    "qty_values": {
+      "min": "50",
+      "max": "50000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 239,
+    "name": "Hiya chat",
+    "price": 0.0010967741935483872,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 37,
+    "name": "Yoho",
+    "price": 0.0001,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 180,
+    "name": "کارتوبکارت تومان",
+    "price": 0.005666981498972165,
+    "params": [
+      "نمبر کارت",
+      "اسم صاحب کارت"
+    ],
+    "category_name": "کارتوبکارت تومان",
+    "available": false,
+    "qty_values": {
+      "min": "1000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 38,
+    "name": "Sogo",
+    "price": 0.00014558823529411765,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 246,
+    "name": "حواله داخل ترکیه",
+    "price": 0.02170212765957447,
+    "params": [
+      "شماره کارت",
+      "اسم صاحب کارت"
+    ],
+    "category_name": "حواله داخل ترکیه",
+    "available": false,
+    "qty_values": {
+      "min": "1000",
+      "max": "15000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 39,
+    "name": "Xena chat",
+    "price": 0.00011098901098901099,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 247,
+    "name": "رایگان SVİP1",
+    "price": 0.0001,
+    "params": [
+      "آیدی"
+    ],
+    "category_name": "رایگان SVİP1",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 0,
+    "base_price": 0.0001,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 261,
+    "name": "Free svip 2",
+    "price": 1,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Free svip 2",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 0,
+    "base_price": 1,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 40,
+    "name": "Party Star",
+    "price": 0.0010839532412327312,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 262,
+    "name": "Free svip 3",
+    "price": 0.09,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Free svip 3",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 0,
+    "base_price": 0.09,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 41,
+    "name": "Migo chat",
+    "price": 0.00011494252873563218,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 292,
+    "name": "Tayyb",
+    "price": 9.322033898305085e-7,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Tayyb",
+    "available": true,
+    "qty_values": {
+      "min": "1000000",
+      "max": "50000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 55,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 42,
+    "name": "Ahlan Chat",
+    "price": 0.0003307984790874525,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "2500",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 87,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 294,
+    "name": "Hala me",
+    "price": 9.09090909090909e-5,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Hala me",
+    "available": true,
+    "qty_values": {
+      "min": "25000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 43,
+    "name": "Yoyo Chat",
+    "price": 0.0007555555555555555,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 318,
+    "name": "Hapi Arabic",
+    "price": 1.111111111111111e-6,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Hapi Arabic",
+    "available": true,
+    "qty_values": {
+      "min": "1000000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/"
+  },
+  {
+    "id": 66,
+    "name": "Lama",
+    "price": 0.0003578947368421053,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "2000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 68,
+    "name": "Soyo",
+    "price": 8.823529411764706e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "1000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 10.5,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 69,
+    "name": "Waki star",
+    "price": 1.625e-6,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "3000000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 104,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 71,
+    "name": "Hati",
+    "price": 0.0002,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 20,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 72,
+    "name": "Halo star",
+    "price": 1.0526315789473683e-6,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 90,
+    "name": "Parti hero",
+    "price": 0.01934865900383142,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "50",
+      "max": "500000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 94,
+    "name": "4FUN",
+    "price": 6.3125e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 95,
+    "name": "Azal live",
+    "price": 0.000536,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "500",
+      "max": "500000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 67,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 96,
+    "name": "Light chat",
+    "price": 0.0003298245614035088,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "2000",
+      "max": "200000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 94,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 98,
+    "name": "Lit chat",
+    "price": 0.00018683274021352313,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 105,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 202,
+    "name": "Hooka chat",
+    "price": 9.0e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 9,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 204,
+    "name": "Karawan chat",
+    "price": 0.0011,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "1000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 11,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 206,
+    "name": "Tada chat",
+    "price": 0.00125,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 207,
+    "name": "Habi chat",
+    "price": 0.0001086021505376344,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "9200",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 205,
+    "name": "Pawa chat",
+    "price": 8.347107438016529e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 208,
+    "name": "Yooy chat",
+    "price": 9.901960784313726e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 209,
+    "name": "Salam chat",
+    "price": 1.0e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "105000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 210,
+    "name": "Talk talk",
+    "price": 0.0008559322033898305,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 211,
+    "name": "Yami chat",
+    "price": 2.9770992366412213e-7,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 39,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 216,
+    "name": "Hiyoo live",
+    "price": 0.0004975124378109452,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 218,
+    "name": "Popo live",
+    "price": 0.00012,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "15000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 18,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 220,
+    "name": "Gimme live",
+    "price": 0.00013605442176870748,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "4500",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 221,
+    "name": "Hami parti",
+    "price": 9.901960784313726e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "15000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 51,
+    "name": "،TL",
+    "price": 0.022799999999999997,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk operatör",
+    "available": true,
+    "qty_values": [
+      "100",
+      "250",
+      "300",
+      "600"
+    ],
+    "product_type": "specificPackage",
+    "parent_id": 8,
+    "base_price": 2.28,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760510250.webp"
+  },
+  {
+    "id": 223,
+    "name": "7 Satr",
+    "price": 0.000109,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 10.9,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 224,
+    "name": "Hago",
+    "price": 0.0174,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "100",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 17.4,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 53,
+    "name": "1GB ماهانه ترکسل",
+    "price": 10.2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 10.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 226,
+    "name": "HiCHAT",
+    "price": 2.24e-6,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "500000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 112,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 54,
+    "name": "GB ماهانه",
+    "price": 11.33,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 11.33,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 228,
+    "name": "Lado live",
+    "price": 0.00093,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "1000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 93,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 55,
+    "name": "ASAAN TÜRKİYE",
+    "price": 0.024300000000000002,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk operatör",
+    "available": true,
+    "qty_values": {
+      "min": "10",
+      "max": "50000"
+    },
+    "product_type": "amount",
+    "parent_id": 8,
+    "base_price": 2.43,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760510250.webp"
+  },
+  {
+    "id": 229,
+    "name": "Boli chat",
+    "price": 9.6e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 96,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 56,
+    "name": "1GB ماهانه",
+    "price": 9.2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 9.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 230,
+    "name": "Yoparti",
+    "price": 0.000202,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 57,
+    "name": "3GB ماهانه",
+    "price": 11,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 11,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 231,
+    "name": "Nahli chat",
+    "price": 0.00010941176470588236,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "4500",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 93,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 58,
+    "name": "Aghan Credit",
+    "price": 0.015944272445820435,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk operatör",
+    "available": true,
+    "qty_values": {
+      "min": "50",
+      "max": "50000"
+    },
+    "product_type": "amount",
+    "parent_id": 8,
+    "base_price": 103,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760510250.webp"
+  },
+  {
+    "id": 232,
+    "name": "Pk star",
+    "price": 0.00016666666666666666,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "1000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 20,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 59,
+    "name": "5GB ماهانه",
+    "price": 13.43,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 13.43,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 240,
+    "name": "Ayome chat",
+    "price": 0.000970873786407767,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 242,
+    "name": "Fun app",
+    "price": 0.00010510204081632653,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 103,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 61,
+    "name": "5GB ماهانه",
+    "price": 12.93,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 12.93,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 248,
+    "name": "4 parti",
+    "price": 8.5e-5,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 85,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 62,
+    "name": "3GB ماهانه",
+    "price": 11,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 11,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 250,
+    "name": "Siya chat",
+    "price": 0.000404,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "1000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 63,
+    "name": "5GB ماهانه",
+    "price": 12.8,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 12.8,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 251,
+    "name": "Joyo live",
+    "price": 0.00010631578947368421,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 64,
+    "name": "10GB ماهانه",
+    "price": 15.53,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 15.53,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 252,
+    "name": "Mango star",
+    "price": 0.0002525,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "4000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 253,
+    "name": "Kessmet chat",
+    "price": 0.00015303030303030304,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 254,
+    "name": "Asha live",
+    "price": 0.000125,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 255,
+    "name": "Sama chat",
+    "price": 0.00010526315789473685,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 256,
+    "name": "Dika live",
+    "price": 1.6666666666666667e-5,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "100000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 257,
+    "name": "Karak chat",
+    "price": 1.7166666666666666e-5,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "50000",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 103,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 263,
+    "name": "Our talk",
+    "price": 2.857142857142857e-5,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "33000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 264,
+    "name": "Soulstar",
+    "price": 0.00011764705882352942,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 277,
+    "name": "Honey jar",
+    "price": 0.00792,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "100",
+      "max": "5000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 278,
+    "name": "Amar chat",
+    "price": 0.00085,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1500",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 102,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 279,
+    "name": "Majlis chat",
+    "price": 0.0010879120879120879,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 74,
+    "name": "Iran credits",
+    "price": 6.1585365853658535e-6,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk operatör",
+    "available": true,
+    "qty_values": {
+      "min": "50000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 8,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760510250.webp"
+  },
+  {
+    "id": 280,
+    "name": "waho",
+    "price": 0.00010208333333333334,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "2500",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 98,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 281,
+    "name": "Mico chat",
+    "price": 0.000344,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": false,
+    "qty_values": {
+      "min": "4000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 86,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 282,
+    "name": "Dimo chat",
+    "price": 0.0009333333333333333,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1500",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 98,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 283,
+    "name": "Lukee",
+    "price": 0.0012195121951219512,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 284,
+    "name": "CRUSH LIVE",
+    "price": 0.001075268817204301,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 285,
+    "name": "Rooh chat",
+    "price": 9.09090909090909e-5,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "2100",
+      "max": "500000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 286,
+    "name": "Saba chat",
+    "price": 0.000125,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "500",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 81,
+    "name": "110",
+    "price": 0.97,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Free fir",
+    "available": true,
+    "qty_values": {
+      "min": 1,
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 13,
+    "base_price": 0.97,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338741.webp"
+  },
+  {
+    "id": 287,
+    "name": "Nabd chat",
+    "price": 1.6666666666666667e-5,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "40000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 82,
+    "name": "210",
+    "price": 1.98,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Free fir",
+    "available": true,
+    "qty_values": {
+      "min": 1,
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 13,
+    "base_price": 1.98,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338741.webp"
+  },
+  {
+    "id": 288,
+    "name": "Pep chat",
+    "price": 0.0011111111111111111,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 83,
+    "name": "500+50",
+    "price": 4.94,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Free fir",
+    "available": true,
+    "qty_values": {
+      "min": 1,
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 13,
+    "base_price": 4.94,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338741.webp"
+  },
+  {
+    "id": 289,
+    "name": "Lami chat",
+    "price": 0.00028571428571428574,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 84,
+    "name": "1080+108 فری فایر",
+    "price": 9.75,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Free fir",
+    "available": true,
+    "qty_values": {
+      "min": 1,
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 13,
+    "base_price": 9.75,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338741.webp"
+  },
+  {
+    "id": 290,
+    "name": "Kwai chat",
+    "price": 0.011111111111111112,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "200",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 85,
+    "name": "2200+220 فایر",
+    "price": 18.97,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Free fir",
+    "available": true,
+    "qty_values": {
+      "min": 1,
+      "max": "1"
+    },
+    "product_type": "package",
+    "parent_id": 13,
+    "base_price": 18.97,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338741.webp"
+  },
+  {
+    "id": 291,
+    "name": "Roka chat",
+    "price": 1.6666666666666667e-5,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "50000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 86,
+    "name": "8BALL POOL110",
+    "price": 2.3,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "8BALL POOL",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 14,
+    "base_price": 2.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778339034.webp"
+  },
+  {
+    "id": 300,
+    "name": "Dana",
+    "price": 4.545454545454545e-5,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "22000",
+      "max": "100000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 87,
+    "name": "Ball pool 250",
+    "price": 4.4,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "8BALL POOL",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 14,
+    "base_price": 4.4,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778339034.webp"
+  },
+  {
+    "id": 301,
+    "name": "Saada chat",
+    "price": 0.0011111111111111111,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1000",
+      "max": "100000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 88,
+    "name": "Ball pool 800",
+    "price": 11,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "8BALL POOL",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 14,
+    "base_price": 11,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778339034.webp"
+  },
+  {
+    "id": 302,
+    "name": "Doli chat",
+    "price": 7.692307692307693e-5,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "15000",
+      "max": "100000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 89,
+    "name": "BALL POOL2000",
+    "price": 22,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "8BALL POOL",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 14,
+    "base_price": 22,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778339034.webp"
+  },
+  {
+    "id": 303,
+    "name": "Yudo chat",
+    "price": 4.545454545454545e-5,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "20000",
+      "max": "100000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 91,
+    "name": "9GB +1000 DK",
+    "price": 14.96,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 14.96,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 306,
+    "name": "Sodfa chat",
+    "price": 5.05e-5,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "20000",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 307,
+    "name": "Chamet chat",
+    "price": 0.00017413793103448276,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": [
+      "15000",
+      "20000",
+      "25000",
+      "30000",
+      "35000",
+      "40000",
+      "45000",
+      "50000",
+      "55000",
+      "60000",
+      "65000",
+      "70000",
+      "75000",
+      "80000",
+      "85000",
+      "90000",
+      "95000",
+      "100000",
+      "150000",
+      "200000",
+      "300000",
+      "400000",
+      "500000"
+    ],
+    "product_type": "specificPackage",
+    "parent_id": 2,
+    "base_price": 101,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 93,
+    "name": "12GB +1000DK",
+    "price": 16.99,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 16.99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 308,
+    "name": "Sahra chat",
+    "price": 0.0007692307692307692,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "1500",
+      "max": "5000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 100,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 309,
+    "name": "Taka chat",
+    "price": 0.000103,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "10000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 103,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 99,
+    "name": "1.6جی بی هفته",
+    "price": 2.5,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 2.5,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 101,
+    "name": "1.2 جی بی هفتوار",
+    "price": 2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 103,
+    "name": "1 جی بی ماهانه",
+    "price": 1.88,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Salam",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 20,
+    "base_price": 1.88,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831973.webp"
+  },
+  {
+    "id": 104,
+    "name": "15 جیبی ماهانه",
+    "price": 17.8,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 17.8,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 105,
+    "name": "20 GB ماهانه",
+    "price": 19.4,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 19.4,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 106,
+    "name": "25 GB ماهانه",
+    "price": 22,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 22,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 108,
+    "name": "30 GB ماهانه",
+    "price": 23.9,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 23.9,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 109,
+    "name": "40 GB ماهانه",
+    "price": 26.63,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 26.63,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 110,
+    "name": "50 GB ماهانه",
+    "price": 33.33,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 33.33,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 111,
+    "name": "80 GB ماهانه",
+    "price": 33,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 33,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 112,
+    "name": "23 GB ماهانه⭐",
+    "price": 1,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 1,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 113,
+    "name": "40 GB ماهانه⭐",
+    "price": 21.96,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 21.96,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 114,
+    "name": "50 GB ماهانه⭐",
+    "price": 24.59,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 24.59,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 115,
+    "name": "80 GB ماهانه⭐",
+    "price": 34.97,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 34.97,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 116,
+    "name": "30 دقیقه آسیا تماس",
+    "price": 10.38,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 10.38,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 117,
+    "name": "3 GB رومینگ اروپا",
+    "price": 12.3,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 12.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 118,
+    "name": "1 GB رومینگ جهانی",
+    "price": 12.3,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Turkcell gb",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 10,
+    "base_price": 12.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760623934.webp"
+  },
+  {
+    "id": 119,
+    "name": "7 GB ماهانه",
+    "price": 12.7,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 12.7,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 120,
+    "name": "10 GB ماهانه",
+    "price": 14.2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 14.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 121,
+    "name": "12 GB ماهانه",
+    "price": 14.7,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 14.7,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 122,
+    "name": "15 GB ماهانه",
+    "price": 15.59,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 15.59,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 123,
+    "name": "16 GB ماهانه",
+    "price": 15.2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 15.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 124,
+    "name": "20 GB ماهانه",
+    "price": 18.88,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 18.88,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 125,
+    "name": "25 GB ماهانه",
+    "price": 17.89,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 17.89,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 126,
+    "name": "40 GB ماهانه",
+    "price": 25.2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 25.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 127,
+    "name": "60 GB ماهانه",
+    "price": 25.36,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 25.36,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 128,
+    "name": "45GB ه 3 ماهه",
+    "price": 29.11,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 29.11,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 129,
+    "name": "60GB ه 6 ماهه",
+    "price": 42.97,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 42.97,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 130,
+    "name": "60 دقیقه آسیا",
+    "price": 7.53,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 7.53,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 131,
+    "name": "120دقیقه آسیا",
+    "price": 11.64,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Vodafone",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 11,
+    "base_price": 11.64,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624266.webp"
+  },
+  {
+    "id": 132,
+    "name": "18 GB ماهانه",
+    "price": 16.99,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 16.99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 133,
+    "name": "20 GB ماهانه",
+    "price": 17.88,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 17.88,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 134,
+    "name": "25 GB ماهانه",
+    "price": 20.999,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 20.999,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 135,
+    "name": "30 GB ماهانه",
+    "price": 23.98,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 23.98,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 136,
+    "name": "40 GB ماهانه",
+    "price": 24,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 24,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 137,
+    "name": "50 GB ماهانه",
+    "price": 25,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 25,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 138,
+    "name": "60 دقیقه تماس خارجی",
+    "price": 7.56,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk Telekom",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 12,
+    "base_price": 7.56,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760624473.webp"
+  },
+  {
+    "id": 139,
+    "name": "3 جی بی ماهانه",
+    "price": 4,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Salam",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 20,
+    "base_price": 4,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831973.webp"
+  },
+  {
+    "id": 140,
+    "name": "5 جی بی ماهانه",
+    "price": 5.7,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Salam",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 20,
+    "base_price": 5.7,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831973.webp"
+  },
+  {
+    "id": 141,
+    "name": "10 جی بی ماهانه",
+    "price": 8.5,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Salam",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 20,
+    "base_price": 8.5,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831973.webp"
+  },
+  {
+    "id": 142,
+    "name": "30 جی بی ماهانه",
+    "price": 18.75,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Salam",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 20,
+    "base_price": 18.75,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831973.webp"
+  },
+  {
+    "id": 143,
+    "name": "40 جی بی ماهانه",
+    "price": 27,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Salam",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 20,
+    "base_price": 27,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831973.webp"
+  },
+  {
+    "id": 149,
+    "name": "3 جی بی ماهانه",
+    "price": 4.58,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 4.58,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 150,
+    "name": "6 جی بی ماهانه",
+    "price": 7.3,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 7.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 151,
+    "name": "8 جی بی ماهانه",
+    "price": 9.3,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 9.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 152,
+    "name": "12 جی بی ماهانه",
+    "price": 11,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 11,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 153,
+    "name": "25 جی بی ماهانه",
+    "price": 17.7,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 17.7,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 155,
+    "name": "32 جی بی ماهانه",
+    "price": 20.8,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 20.8,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 156,
+    "name": "44 جی بی ماهانه",
+    "price": 32,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 32,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 157,
+    "name": "75 جی بی ماهانه",
+    "price": 52,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "AFGHAN 070",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 16,
+    "base_price": 52,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758829072.webp"
+  },
+  {
+    "id": 158,
+    "name": "1 جی بی ماهانه",
+    "price": 2.2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 2.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 159,
+    "name": "2 جی بی ماهانه",
+    "price": 4.33,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 4.33,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 160,
+    "name": "2.4 جی بی ماهانه",
+    "price": 4.1,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 4.1,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 162,
+    "name": "3 جی بی ماهانه",
+    "price": 6,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 6,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 163,
+    "name": "3.7 جی بی ماهانه",
+    "price": 6.25,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 6.25,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 164,
+    "name": "4 جی بی ماهانه",
+    "price": 7.2,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 7.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 165,
+    "name": "5 جی بی ماهانه",
+    "price": 8.3,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 8.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 166,
+    "name": "8 جی بی ماهانه",
+    "price": 9.99,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 9.99,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 167,
+    "name": "13 جی بی ماهانه",
+    "price": 1.25,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 1.25,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 168,
+    "name": "20 جی بی ماهانه",
+    "price": 17.55,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 17.55,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 169,
+    "name": "2 جی بی ماهانه",
+    "price": 3.35,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 3.35,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 170,
+    "name": "3 جی بی ماهانه",
+    "price": 4.78,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 4.78,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 171,
+    "name": "4 جی بی ماهانه",
+    "price": 6.52,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 6.52,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 172,
+    "name": "5 جی بی ماهانه",
+    "price": 7.59,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 7.59,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 173,
+    "name": "10 جی بی ماهانه",
+    "price": 10.96,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 10.96,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 174,
+    "name": "18 جی بی ماهانه",
+    "price": 15.15,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 15.15,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 175,
+    "name": "20 جی بی ماهانه",
+    "price": 18.33,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 18.33,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 176,
+    "name": "30 جی بی ماهانه",
+    "price": 24.58,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "MTN",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 19,
+    "base_price": 24.58,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758831619.webp"
+  },
+  {
+    "id": 199,
+    "name": "68,500 GOLD",
+    "price": 2,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Yalla ludu",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 21,
+    "base_price": 2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778349482.webp"
+  },
+  {
+    "id": 200,
+    "name": "830 الماس",
+    "price": 2,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Yalla ludu d",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 22,
+    "base_price": 2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778349383.webp"
+  },
+  {
+    "id": 233,
+    "name": "Play stor TL",
+    "price": 0.023700000000000002,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Türk operatör",
+    "available": true,
+    "qty_values": {
+      "min": "25",
+      "max": 5000
+    },
+    "product_type": "amount",
+    "parent_id": 8,
+    "base_price": 2.37,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760510250.webp"
+  },
+  {
+    "id": 235,
+    "name": "Falla 520.000",
+    "price": 10.4,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Falla chat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 25,
+    "base_price": 10.4,
+    "category_img": "https://api.seller-24.com/images/category/1600-1761321221.webp"
+  },
+  {
+    "id": 236,
+    "name": "Falla 1040.000",
+    "price": 19.3,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Falla chat",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 25,
+    "base_price": 19.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1761321221.webp"
+  },
+  {
+    "id": 238,
+    "name": "164000 star",
+    "price": 5.8,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Farah star",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 28,
+    "base_price": 5.8,
+    "category_img": "https://api.seller-24.com/images/category/1600-1761341316.webp"
+  },
+  {
+    "id": 265,
+    "name": "2320 diamonds",
+    "price": 4.78,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Yalla ludu d",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 22,
+    "base_price": 4.78,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778349383.webp"
+  },
+  {
+    "id": 266,
+    "name": "5150 diamonds",
+    "price": 9.49,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Yalla ludu d",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 22,
+    "base_price": 9.49,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778349383.webp"
+  },
+  {
+    "id": 267,
+    "name": "13.580 diamonds",
+    "price": 23.49,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Yalla ludu d",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 22,
+    "base_price": 23.49,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778349383.webp"
+  },
+  {
+    "id": 268,
+    "name": "27.640 diamonds",
+    "price": 47,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Yalla ludu d",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 22,
+    "base_price": 47,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778349383.webp"
+  },
+  {
+    "id": 270,
+    "name": "500 جواهر",
+    "price": 5.4,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Clash of clans",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 30,
+    "base_price": 5.4,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338069.webp"
+  },
+  {
+    "id": 271,
+    "name": "1200 جواهر",
+    "price": 10.8,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Clash of clans",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 30,
+    "base_price": 10.8,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338069.webp"
+  },
+  {
+    "id": 272,
+    "name": "2500 جواهر",
+    "price": 21.2,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Clash of clans",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 30,
+    "base_price": 21.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338069.webp"
+  },
+  {
+    "id": 273,
+    "name": "6500 جواهر",
+    "price": 54,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Clash of clans",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 30,
+    "base_price": 54,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338069.webp"
+  },
+  {
+    "id": 274,
+    "name": "14000 جواهر",
+    "price": 108,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Clash of clans",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 30,
+    "base_price": 108,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338069.webp"
+  },
+  {
+    "id": 275,
+    "name": "Gold Pass",
+    "price": 9,
+    "params": [
+      "Enter your ID"
+    ],
+    "category_name": "Clash of clans",
+    "available": false,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 30,
+    "base_price": 9,
+    "category_img": "https://api.seller-24.com/images/category/1600-1778338069.webp"
+  },
+  {
+    "id": 297,
+    "name": "10 ایمو",
+    "price": 0.179,
+    "params": [
+      "Enter your number +"
+    ],
+    "category_name": "Emo pro",
+    "available": true,
+    "qty_values": {
+      "min": 1,
+      "max": "2"
+    },
+    "product_type": "package",
+    "parent_id": 33,
+    "base_price": 0.179,
+    "category_img": "https://api.seller-24.com/images/category/1600-1781634779.webp"
+  },
+  {
+    "id": 299,
+    "name": "İMo 10.000",
+    "price": 176.8,
+    "params": [
+      "Enter your number"
+    ],
+    "category_name": "Emo pro",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 33,
+    "base_price": 176.8,
+    "category_img": "https://api.seller-24.com/images/category/1600-1781634779.webp"
+  },
+  {
+    "id": 310,
+    "name": "Tumile 300",
+    "price": 3,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 311,
+    "name": "Tumile 650",
+    "price": 5.3,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 5.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 312,
+    "name": "Tumile 1250",
+    "price": 9,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 9,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 313,
+    "name": "Tumile 1800",
+    "price": 12.2,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 12.2,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 314,
+    "name": "Tumile 3500",
+    "price": 22.1,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 22.1,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 315,
+    "name": "Tumile 7000",
+    "price": 42,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 42,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 316,
+    "name": "Tumile 15000",
+    "price": 85.6,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 85.6,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 317,
+    "name": "Tumile 35000",
+    "price": 198,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "TUMİLE",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": 198,
+    "category_img": "https://api.seller-24.com/images/category/1600-1782076481.webp"
+  },
+  {
+    "id": 319,
+    "name": "LAYAM",
+    "price": 5.6e-5,
+    "params": [
+      "Enter your id"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "500000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 28,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 322,
+    "name": "25 gb roshan",
+    "price": 18.75,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 18.75,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 323,
+    "name": "50 gb roshan",
+    "price": 33.3,
+    "params": [
+      "شماره وارد کنید"
+    ],
+    "category_name": "Roshan",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 18,
+    "base_price": 33.3,
+    "category_img": "https://api.seller-24.com/images/category/1600-1758830828.webp"
+  },
+  {
+    "id": 330,
+    "name": "Layla chat",
+    "price": 0.00022790697674418604,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Other programs",
+    "available": true,
+    "qty_values": {
+      "min": "5000",
+      "max": "50000000"
+    },
+    "product_type": "amount",
+    "parent_id": 2,
+    "base_price": 98,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760507582.webp"
+  },
+  {
+    "id": 331,
+    "name": "1010.000🪙",
+    "price": 0.606,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 0.606,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 332,
+    "name": "2020.000🪙",
+    "price": 1.212,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 1.212,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 333,
+    "name": "5.200.000🪙",
+    "price": 3.12,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 3.12,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 334,
+    "name": "10.400.000🪙",
+    "price": 6.24,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 6.24,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 335,
+    "name": "21.400.000🪙",
+    "price": 12.84,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 12.84,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 336,
+    "name": "54.000.000🪙",
+    "price": 32.4,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 32.4,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 337,
+    "name": "110.000.000🪙",
+    "price": 66,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 66,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  },
+  {
+    "id": 338,
+    "name": "220.000.000🪙",
+    "price": 132,
+    "params": [
+      "آیدی وارد کنید"
+    ],
+    "category_name": "Hilo",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 23,
+    "base_price": 132,
+    "category_img": "https://api.seller-24.com/images/category/1600-1760541513.webp"
+  }
+]
