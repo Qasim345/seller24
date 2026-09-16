@@ -30,8 +30,8 @@ async function loadProducts() {
     showState('loading');
 
     try {
-        const response = await fetch('products2.json', { cache: 'no-store' });
-        if (!response.ok) throw new Error(`products2.json returned ${response.status}`);
+        const response = await fetch('products.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error(`products.json returned ${response.status}`);
 
         const products = await response.json();
         if (!Array.isArray(products)) throw new Error('JSON root must be an array.');
