@@ -36,7 +36,7 @@ async function loadProducts() {
         const products = await response.json();
         if (!Array.isArray(products)) throw new Error('JSON root must be an array.');
 
-        state.products = products.filter((product) => product.available === true && isPersianCategory(product.category_name));
+        state.products = products.filter((product) => product.available === true);
         fillCategories();
         renderTable();
     } catch (error) {
