@@ -2,7 +2,7 @@
   {
     "id": 12,
     "name": "Soul Chill Crestal",
-    "price": 0.08593033012048193,
+    "price": 0.08622261015490533,
     "params": [
       "Please enter user id here"
     ],
@@ -38,7 +38,7 @@
   {
     "id": 14,
     "name": "Ahlan chat",
-    "price": 0.018683316666666668,
+    "price": 0.018571205555555553,
     "params": [
       "enter user id"
     ],
@@ -56,7 +56,7 @@
   {
     "id": 15,
     "name": "LIKE LIVE",
-    "price": 0.8839911504424779,
+    "price": 0.8876536240000001,
     "params": [
       "Please enter user id here"
     ],
@@ -74,7 +74,7 @@
   {
     "id": 17,
     "name": "OOHLA Chat",
-    "price": 0.03642224473684211,
+    "price": 0.03582953205312276,
     "params": [
       "Please enter user id here"
     ],
@@ -110,7 +110,7 @@
   {
     "id": 51,
     "name": "Bigo Live",
-    "price": 0.8537692307692308,
+    "price": 0.8611293103448276,
     "params": [
       "enter user id"
     ],
@@ -164,7 +164,7 @@
   {
     "id": 21,
     "name": "Haki Chat",
-    "price": 0.027636510000000006,
+    "price": 0.027637247066961815,
     "params": [
       "enter user id"
     ],
@@ -218,7 +218,7 @@
   {
     "id": 52,
     "name": "YoYo Chat",
-    "price": 0.03839731694117647,
+    "price": 0.037888068705882356,
     "params": [
       "enter user id"
     ],
@@ -236,7 +236,7 @@
   {
     "id": 28,
     "name": "TalkTalk",
-    "price": 0.04066182031386224,
+    "price": 0.04063969348534202,
     "params": [
       "please enter user id here"
     ],
@@ -254,7 +254,7 @@
   {
     "id": 31,
     "name": "لايت شات",
-    "price": 0.01298583,
+    "price": 0.01257405565669701,
     "params": [
       "enter user id"
     ],
@@ -290,7 +290,7 @@
   {
     "id": 27,
     "name": "Binmo Chat",
-    "price": 0.01890565922454197,
+    "price": 0.019519477991615852,
     "params": [
       "Please enter user id here"
     ],
@@ -326,7 +326,7 @@
   {
     "id": 30,
     "name": "Beela Chat",
-    "price": 0.004435051229508197,
+    "price": 0.004432776844262295,
     "params": [
       "please enter user id here"
     ],
@@ -344,7 +344,7 @@
   {
     "id": 32,
     "name": "BoBo Chat",
-    "price": 0.0023068250476644425,
+    "price": 0.0022892084270734036,
     "params": [
       "p;ease enter user id here"
     ],
@@ -488,7 +488,7 @@
   {
     "id": 360,
     "name": "toptop chat",
-    "price": 0.00216,
+    "price": 0.0021491870769660176,
     "params": [
       "enter user id"
     ],
@@ -578,7 +578,7 @@
   {
     "id": 83,
     "name": "Fance Live",
-    "price": 0.0026496511016949153,
+    "price": 0.0025728359887005653,
     "params": [
       "enter user id"
     ],
@@ -650,7 +650,7 @@
   {
     "id": 362,
     "name": "WYAK CHAT",
-    "price": 0.00010438851420079261,
+    "price": 0.00010294799009247027,
     "params": [
       "enter user id"
     ],
@@ -722,7 +722,7 @@
   {
     "id": 47,
     "name": "Saba chat",
-    "price": 0.005764154141355141,
+    "price": 0.0057612367640186915,
     "params": [
       "enter user id"
     ],
@@ -758,7 +758,7 @@
   {
     "id": 107,
     "name": "Soyo",
-    "price": 0.003907300039370078,
+    "price": 0.004043846285488958,
     "params": [
       "enter user id"
     ],
@@ -884,7 +884,7 @@
   {
     "id": 420,
     "name": "TADA CHat",
-    "price": 0.060825386900369004,
+    "price": 0.06079467011070111,
     "params": [
       "enter user id"
     ],
@@ -938,7 +938,7 @@
   {
     "id": 424,
     "name": "XENA LIVE",
-    "price": 0.005273290933687003,
+    "price": 0.0053020294736842105,
     "params": [
       "enter user id"
     ],
@@ -1013,7 +1013,7 @@
   {
     "id": 528,
     "name": "HIYOO CHAT",
-    "price": 0.02434812506130456,
+    "price": 0.024349405226209053,
     "params": [
       "enter user id"
     ],
@@ -1103,7 +1103,7 @@
   {
     "id": 625,
     "name": "Yaahlan",
-    "price": 0.08764567471042471,
+    "price": 0.08752847779608146,
     "params": [
       "enter user id"
     ],
@@ -1172,14 +1172,14 @@
   {
     "id": 627,
     "name": "Tami chat",
-    "price": 0.000717696,
+    "price": 0.000719928,
     "params": [
       "Enter user id"
     ],
     "category_name": "Tami chat",
     "available": true,
     "qty_values": {
-      "min": "13000",
+      "min": "50000",
       "max": "500000000"
     },
     "product_type": "amount",
@@ -1208,7 +1208,7 @@
   {
     "id": 629,
     "name": "Ditto live",
-    "price": 0.01368988932413793,
+    "price": 0.013282058482758622,
     "params": [
       "Enter user id"
     ],
@@ -1280,7 +1280,7 @@
   {
     "id": 630,
     "name": "Waho chat",
-    "price": 0.004899019127023051,
+    "price": 0.004884645476772617,
     "params": [
       "Enter user id"
     ],
@@ -1313,7 +1313,7 @@
   {
     "id": 639,
     "name": "Dimo chat",
-    "price": 0.045222543041474654,
+    "price": 0.045199526682027646,
     "params": [
       "Enter user id"
     ],
@@ -1397,7 +1397,7 @@
   {
     "id": 659,
     "name": "Mango live",
-    "price": 0.01187346420402261,
+    "price": 0.011848514434073882,
     "params": [
       "Enter user id"
     ],
@@ -1430,7 +1430,7 @@
   {
     "id": 700,
     "name": "SUGO CHAT",
-    "price": 0.00683248974008208,
+    "price": 0.006792071802543008,
     "params": [
       "Enter user id"
     ],
@@ -1448,7 +1448,7 @@
   {
     "id": 75,
     "name": "pubg mobile TR 3850 uc",
-    "price": 2203.59546,
+    "price": 2178.123255,
     "params": [
       "enter user id"
     ],
@@ -1481,7 +1481,7 @@
   {
     "id": 76,
     "name": "pubg mobile TR 8100 uc",
-    "price": 4287.821175,
+    "price": 4237.37622,
     "params": [
       "enter user id"
     ],
@@ -1532,7 +1532,7 @@
   {
     "id": 662,
     "name": "LAYLA Chat",
-    "price": 0.011042560247623259,
+    "price": 0.011137790191657273,
     "params": [
       "Enter user id"
     ],
@@ -1568,7 +1568,7 @@
   {
     "id": 686,
     "name": "Cocco live",
-    "price": 0.005018307859459459,
+    "price": 0.00526236587027027,
     "params": [
       "Enter user id"
     ],
@@ -1681,7 +1681,7 @@
       "Enter user id"
     ],
     "category_name": "Tango live",
-    "available": true,
+    "available": false,
     "qty_values": {
       "min": "200",
       "max": "20000000000"
@@ -1748,7 +1748,7 @@
   {
     "id": 721,
     "name": "Wego chat",
-    "price": 0.0040794785083532225,
+    "price": 0.0039036351315789477,
     "params": [
       "Enter user id"
     ],
@@ -1802,7 +1802,7 @@
   {
     "id": 92,
     "name": "Tumile 360 Gold",
-    "price": 136.351215,
+    "price": 139.347945,
     "params": [
       "enter user id"
     ],
@@ -1856,7 +1856,7 @@
   {
     "id": 741,
     "name": "Habi chat",
-    "price": 0.005181456237006237,
+    "price": 0.005200666044698545,
     "params": [
       "Enter user id"
     ],
@@ -1892,7 +1892,7 @@
   {
     "id": 743,
     "name": "Amar chat",
-    "price": 0.04192484029411765,
+    "price": 0.042331959075630254,
     "params": [
       "Enter user id"
     ],
@@ -1928,7 +1928,7 @@
   {
     "id": 720,
     "name": "Hi party",
-    "price": 0.004903325342465754,
+    "price": 0.005100978767123288,
     "params": [
       "Enter user id"
     ],
@@ -2177,7 +2177,7 @@
   {
     "id": 803,
     "name": "Chamet chat",
-    "price": 0.008443248616298811,
+    "price": 0.008431377020373516,
     "params": [
       "Enter user id"
     ],
@@ -2282,7 +2282,7 @@
   {
     "id": 804,
     "name": "Hala me",
-    "price": 0.002090575928571429,
+    "price": 0.0020895266533613446,
     "params": [
       "Enter user id"
     ],
@@ -2300,7 +2300,7 @@
   {
     "id": 111,
     "name": "Pubg global 325",
-    "price": 220.275,
+    "price": 220.77,
     "params": [
       "enter user id"
     ],
@@ -2333,7 +2333,7 @@
   {
     "id": 112,
     "name": "Pubg global 660",
-    "price": 439.56000000000006,
+    "price": 440.055,
     "params": [
       "enter user id"
     ],
@@ -2423,7 +2423,7 @@
   {
     "id": 115,
     "name": "Pubg global 8100",
-    "price": 4207.5,
+    "price": 4370.849999999999,
     "params": [
       "enter user id"
     ],
@@ -2504,7 +2504,7 @@
   {
     "id": 798,
     "name": "4fun 200k",
-    "price": 49.945499999999996,
+    "price": 100000000000,
     "params": [
       "Enter user id"
     ],
@@ -2519,7 +2519,7 @@
   {
     "id": 121,
     "name": "FIFA 150 point",
-    "price": 23.474384999999998,
+    "price": 22.97493,
     "params": [
       "enter user id"
     ],
@@ -2552,7 +2552,7 @@
   {
     "id": 122,
     "name": "FIFA 500 point",
-    "price": 74.41879499999999,
+    "price": 73.41988500000001,
     "params": [
       "enter user id"
     ],
@@ -2588,7 +2588,7 @@
   {
     "id": 123,
     "name": "FIFA 1050 point",
-    "price": 137.84958,
+    "price": 136.85067,
     "params": [
       "enter user id"
     ],
@@ -2606,7 +2606,7 @@
   {
     "id": 851,
     "name": "Janko chat",
-    "price": 0.0009775062078931631,
+    "price": 0.0009823925905511812,
     "params": [
       "Enter user id"
     ],
@@ -2624,7 +2624,7 @@
   {
     "id": 124,
     "name": "FIFA 2200 point",
-    "price": 297.17572500000006,
+    "price": 294.178995,
     "params": [
       "enter user id"
     ],
@@ -2642,7 +2642,7 @@
   {
     "id": 829,
     "name": "Taby taby",
-    "price": 0.018905935917926563,
+    "price": 0.019498540472560975,
     "params": [
       "Enter user id"
     ],
@@ -2660,7 +2660,7 @@
   {
     "id": 126,
     "name": "FIFA 5750 point",
-    "price": 690.24681,
+    "price": 683.25444,
     "params": [
       "enter user id"
     ],
@@ -2678,7 +2678,7 @@
   {
     "id": 852,
     "name": "Dana chat",
-    "price": 0.00205296815625,
+    "price": 0.003680983349999999,
     "params": [
       "Enter user id"
     ],
@@ -2696,7 +2696,7 @@
   {
     "id": 127,
     "name": "FIFA 12000 point",
-    "price": 1380.49362,
+    "price": 1366.009425,
     "params": [
       "enter user id"
     ],
@@ -2732,7 +2732,7 @@
   {
     "id": 128,
     "name": "FIFA 17500 point",
-    "price": 1911.4142850000003,
+    "price": 1891.93554,
     "params": [
       "enter user id"
     ],
@@ -2768,7 +2768,7 @@
   {
     "id": 129,
     "name": "FIFA 26000 point",
-    "price": 2655.1027799999997,
+    "price": 2627.1333,
     "params": [
       "enter user id"
     ],
@@ -2786,7 +2786,7 @@
   {
     "id": 855,
     "name": "Up Fun",
-    "price": 0.0018668154098360657,
+    "price": 0.002012468539574126,
     "params": [
       "Enter user id"
     ],
@@ -2822,7 +2822,7 @@
   {
     "id": 856,
     "name": "Wasla chat",
-    "price": 0.014872325692771086,
+    "price": 0.014864803780120481,
     "params": [
       "Enter user id"
     ],
@@ -3002,7 +3002,7 @@
   {
     "id": 861,
     "name": "Pawa live",
-    "price": 0.003984434278846154,
+    "price": 0.003982433257211538,
     "params": [
       "Enter user id"
     ],
@@ -3053,7 +3053,7 @@
   {
     "id": 935,
     "name": "WAAW شات",
-    "price": 0.0014646521587867976,
+    "price": 0.001461676909569798,
     "params": [
       "Enter user id"
     ],
@@ -3170,7 +3170,7 @@
   {
     "id": 149,
     "name": "youo 14000",
-    "price": 537.5624371764706,
+    "price": 530.432961882353,
     "params": [
       "enter user id"
     ],
@@ -3203,7 +3203,7 @@
   {
     "id": 150,
     "name": "youo 40000",
-    "price": 1535.892677647059,
+    "price": 1515.5227482352943,
     "params": [
       "enter user id"
     ],
@@ -3236,7 +3236,7 @@
   {
     "id": 151,
     "name": "youo 160000",
-    "price": 6143.570710588236,
+    "price": 6062.090992941177,
     "params": [
       "enter user id"
     ],
@@ -3269,7 +3269,7 @@
   {
     "id": 152,
     "name": "youo 320000",
-    "price": 12287.141421176471,
+    "price": 12124.181985882355,
     "params": [
       "enter user id"
     ],
@@ -3302,7 +3302,7 @@
   {
     "id": 153,
     "name": "youo 640000",
-    "price": 24574.282842352943,
+    "price": 24248.36397176471,
     "params": [
       "enter user id"
     ],
@@ -3335,7 +3335,7 @@
   {
     "id": 154,
     "name": "youo 1000000",
-    "price": 38397.31694117647,
+    "price": 37888.06870588235,
     "params": [
       "enter user id"
     ],
@@ -3449,7 +3449,7 @@
   {
     "id": 941,
     "name": "Nawa live",
-    "price": 0.001080639,
+    "price": 0.0010752336428571428,
     "params": [
       "Enter user id"
     ],
@@ -3566,7 +3566,7 @@
   {
     "id": 161,
     "name": "Haki 17500",
-    "price": 483.6389250000001,
+    "price": 483.6518236718318,
     "params": [
       "enter user id"
     ],
@@ -3599,7 +3599,7 @@
   {
     "id": 162,
     "name": "Haki 7000",
-    "price": 193.45557000000005,
+    "price": 193.4607294687327,
     "params": [
       "enter user id"
     ],
@@ -3614,7 +3614,7 @@
   {
     "id": 1007,
     "name": "Tayyb chat",
-    "price": 3.617826459677419e-5,
+    "price": 3.598895504032258e-5,
     "params": [
       "Enter user id"
     ],
@@ -3632,7 +3632,7 @@
   {
     "id": 163,
     "name": "Haki 30000",
-    "price": 829.0953000000002,
+    "price": 829.1174120088544,
     "params": [
       "enter user id"
     ],
@@ -3647,7 +3647,7 @@
   {
     "id": 999,
     "name": "Roka Live",
-    "price": 0.0007825532549335481,
+    "price": 0.0007673463286347161,
     "params": [
       "Enter user id"
     ],
@@ -3665,7 +3665,7 @@
   {
     "id": 164,
     "name": "Haki 50000",
-    "price": 1381.8255000000004,
+    "price": 1381.8623533480907,
     "params": [
       "enter user id"
     ],
@@ -3698,7 +3698,7 @@
   {
     "id": 165,
     "name": "Haki 100000",
-    "price": 2763.6510000000007,
+    "price": 2763.7247066961813,
     "params": [
       "enter user id"
     ],
@@ -3851,7 +3851,7 @@
   {
     "id": 997,
     "name": "Our Talk",
-    "price": 0.0012110073287671232,
+    "price": 0.0012049118630136986,
     "params": [
       "Enter user id"
     ],
@@ -3884,7 +3884,7 @@
   {
     "id": 946,
     "name": "Waki star",
-    "price": 1.2330057022900765e-5,
+    "price": 1.2169926412213744e-5,
     "params": [
       "Enter user id"
     ],
@@ -3950,7 +3950,7 @@
   {
     "id": 947,
     "name": "Sodfa chat",
-    "price": 0.0008495712956810632,
+    "price": 0.0008479119767441861,
     "params": [
       "Enter user id"
     ],
@@ -4067,7 +4067,7 @@
   {
     "id": 1030,
     "name": "Dika chat",
-    "price": 0.0007135071428571429,
+    "price": 0.0006489732685297692,
     "params": [
       "Enter user id"
     ],
@@ -4166,7 +4166,7 @@
   {
     "id": 980,
     "name": "Villa chat",
-    "price": 0.0013194491438310208,
+    "price": 0.0013004141160524976,
     "params": [
       "Enter user id"
     ],
@@ -4199,14 +4199,14 @@
   {
     "id": 1033,
     "name": "KARAK CHAT",
-    "price": 0.0007486310512618297,
+    "price": 0.0007308396836283185,
     "params": [
       "Enter user id"
     ],
     "category_name": "KARAK CHAT",
     "available": true,
     "qty_values": {
-      "min": "71090",
+      "min": "50000",
       "max": "500000000000000"
     },
     "product_type": "amount",
@@ -4232,7 +4232,7 @@
   {
     "id": 1034,
     "name": "BAAT Chat",
-    "price": 0.004932433756319515,
+    "price": 0.004906678240647119,
     "params": [
       "Enter user id"
     ],
@@ -4301,7 +4301,7 @@
   {
     "id": 184,
     "name": "LIKE 630",
-    "price": 556.914424778761,
+    "price": 559.22178312,
     "params": [
       "ENTER USER ID"
     ],
@@ -4316,7 +4316,7 @@
   {
     "id": 1061,
     "name": "LEESKI Chat",
-    "price": 0.001630199201355276,
+    "price": 0.0016301610940561723,
     "params": [
       "Enter user id"
     ],
@@ -4334,7 +4334,7 @@
   {
     "id": 185,
     "name": "LIKE 840",
-    "price": 742.5525663716815,
+    "price": 745.6290441600001,
     "params": [
       "ENTER USER ID"
     ],
@@ -4349,7 +4349,7 @@
   {
     "id": 1032,
     "name": "SHABAB chat",
-    "price": 0.0010698566517225105,
+    "price": 0.0010638121524324325,
     "params": [
       "Enter user id"
     ],
@@ -4367,7 +4367,7 @@
   {
     "id": 186,
     "name": "LIKE 1050",
-    "price": 928.1907079646018,
+    "price": 932.0363052000001,
     "params": [
       "ENTER USER ID"
     ],
@@ -4400,7 +4400,7 @@
   {
     "id": 187,
     "name": "LIKE 2100",
-    "price": 1856.3814159292035,
+    "price": 1864.0726104000003,
     "params": [
       "ENTER USER ID"
     ],
@@ -4415,7 +4415,7 @@
   {
     "id": 1068,
     "name": "Zafa live",
-    "price": 0.0007294336415816326,
+    "price": 0.0007274416893076249,
     "params": [
       "Enter user id"
     ],
@@ -4433,7 +4433,7 @@
   {
     "id": 188,
     "name": "LIKE 3150",
-    "price": 2784.5721238938054,
+    "price": 2796.1089156000003,
     "params": [
       "ENTER USER ID"
     ],
@@ -4448,7 +4448,7 @@
   {
     "id": 1036,
     "name": "Saada chat",
-    "price": 0.05498967440093513,
+    "price": 0.054779500467562824,
     "params": [
       "Enter user id"
     ],
@@ -4466,7 +4466,7 @@
   {
     "id": 189,
     "name": "LIKE 4200",
-    "price": 3712.762831858407,
+    "price": 3728.1452208000005,
     "params": [
       "ENTER USER ID"
     ],
@@ -4481,7 +4481,7 @@
   {
     "id": 1083,
     "name": "Amisu Party",
-    "price": 0.00062431875,
+    "price": 0.0005708057142857143,
     "params": [
       "Enter user id"
     ],
@@ -4499,7 +4499,7 @@
   {
     "id": 190,
     "name": "LIKE 8400",
-    "price": 7425.525663716814,
+    "price": 7456.290441600001,
     "params": [
       "ENTER USER ID"
     ],
@@ -4514,7 +4514,7 @@
   {
     "id": 1069,
     "name": "Mikoo chat",
-    "price": 0.0018730299449144204,
+    "price": 0.0018869828487113908,
     "params": [
       "Enter user id"
     ],
@@ -4532,7 +4532,7 @@
   {
     "id": 191,
     "name": "LIKE 12600",
-    "price": 11138.288495575222,
+    "price": 11184.435662400001,
     "params": [
       "ENTER USER ID"
     ],
@@ -4565,7 +4565,7 @@
   {
     "id": 192,
     "name": "LIKE 21000",
-    "price": 18563.814159292036,
+    "price": 18640.726104,
     "params": [
       "ENTER USER ID"
     ],
@@ -4598,7 +4598,7 @@
   {
     "id": 193,
     "name": "LIKE 42000",
-    "price": 37127.62831858407,
+    "price": 37281.452208,
     "params": [
       "ENTER USER ID"
     ],
@@ -4613,7 +4613,7 @@
   {
     "id": 1178,
     "name": "NIUCHAT",
-    "price": 0.00043430869565217394,
+    "price": 0.00042926944563816073,
     "params": [
       "Enter user id"
     ],
@@ -4646,7 +4646,7 @@
   {
     "id": 943,
     "name": "Pocket chat",
-    "price": 0.010988719789199432,
+    "price": 0.01177658580056845,
     "params": [
       "Enter user id"
     ],
@@ -4811,7 +4811,7 @@
   {
     "id": 1177,
     "name": "Bishar Chat",
-    "price": 0.0008495499276629571,
+    "price": 0.0008478824308426075,
     "params": [
       "Enter user id"
     ],
@@ -4877,7 +4877,7 @@
   {
     "id": 1084,
     "name": "BULALA Chat",
-    "price": 0.00037719984417300975,
+    "price": 0.00036698771118863087,
     "params": [
       "Enter user id"
     ],
@@ -4994,7 +4994,7 @@
   {
     "id": 205,
     "name": "SOUL CHELL 420",
-    "price": 36.09073865060241,
+    "price": 36.213496265060236,
     "params": [
       "Please enter user id here"
     ],
@@ -5027,7 +5027,7 @@
   {
     "id": 206,
     "name": "SOUL CHELL 2160",
-    "price": 185.60951306024097,
+    "price": 186.2408379345955,
     "params": [
       "Please enter user id here"
     ],
@@ -5060,7 +5060,7 @@
   {
     "id": 207,
     "name": "SOUL CHELL 4450",
-    "price": 382.3899690361446,
+    "price": 383.6906151893287,
     "params": [
       "Please enter user id here"
     ],
@@ -5075,7 +5075,7 @@
   {
     "id": 1179,
     "name": "ooyuni chat",
-    "price": 0.0006731199460916442,
+    "price": 0.0005832079492924529,
     "params": [
       "Enter user id"
     ],
@@ -5093,7 +5093,7 @@
   {
     "id": 208,
     "name": "SOUL CHELL 13700",
-    "price": 1177.2455226506024,
+    "price": 1181.249759122203,
     "params": [
       "Please enter user id here"
     ],
@@ -5126,7 +5126,7 @@
   {
     "id": 209,
     "name": "SOUL CHELL 23500",
-    "price": 2019.3627578313253,
+    "price": 2026.2313386402752,
     "params": [
       "Please enter user id here"
     ],
@@ -5159,7 +5159,7 @@
   {
     "id": 210,
     "name": "SOUL CHELL 48300",
-    "price": 4150.434944819277,
+    "price": 4164.552070481927,
     "params": [
       "Please enter user id here"
     ],
@@ -5174,7 +5174,7 @@
   {
     "id": 1247,
     "name": "BOTA",
-    "price": 0.0008413508344537815,
+    "price": 0.0008264091554621849,
     "params": [
       "Enter user id"
     ],
@@ -5324,7 +5324,7 @@
   {
     "id": 215,
     "name": "Bigo 235",
-    "price": 200.63576923076926,
+    "price": 202.3653879310345,
     "params": [
       "enter user id"
     ],
@@ -5357,7 +5357,7 @@
   {
     "id": 216,
     "name": "Bigo 471",
-    "price": 402.12530769230773,
+    "price": 405.5919051724138,
     "params": [
       "enter user id"
     ],
@@ -5390,7 +5390,40 @@
   {
     "id": 217,
     "name": "Bigo 1178",
-    "price": 1005.7401538461539,
+    "price": 1014.410327586207,
+    "params": [
+      "enter user id"
+    ],
+    "category_name": "بيغو باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 34,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1283,
+    "name": "RUFFA Chat",
+    "price": 0.0007086660298083747,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "RUFFA Chat",
+    "available": true,
+    "qty_values": {
+      "min": "50000",
+      "max": "50000000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 218,
+    "name": "Bigo 2360",
+    "price": 2032.2651724137932,
     "params": [
       "enter user id"
     ],
@@ -5405,7 +5438,7 @@
   {
     "id": 1249,
     "name": "NIVI Chat",
-    "price": 0.011106901401557286,
+    "price": 0.010975787519466073,
     "params": [
       "Enter user id"
     ],
@@ -5421,9 +5454,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 218,
-    "name": "Bigo 2360",
-    "price": 2014.8953846153847,
+    "id": 219,
+    "name": "Bigo 4725",
+    "price": 4068.8359913793106,
     "params": [
       "enter user id"
     ],
@@ -5454,9 +5487,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 219,
-    "name": "Bigo 4725",
-    "price": 4034.059615384616,
+    "id": 220,
+    "name": "Bigo 23700",
+    "price": 20408.764655172414,
     "params": [
       "enter user id"
     ],
@@ -5471,15 +5504,81 @@
   {
     "id": 1276,
     "name": "Dawa Live",
-    "price": 0.0007741627980872814,
+    "price": 0.0007399333333333334,
     "params": [
       "Enter user id"
     ],
     "category_name": "Dawa Live",
     "available": true,
     "qty_values": {
-      "min": "60000",
+      "min": "50000",
       "max": "50000000000000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 221,
+    "name": "Bigo 47500",
+    "price": 40903.64224137931,
+    "params": [
+      "enter user id"
+    ],
+    "category_name": "بيغو باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 34,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1281,
+    "name": "Sohha chat",
+    "price": 0.0009035003617945007,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "Sohha chat",
+    "available": true,
+    "qty_values": {
+      "min": "50000",
+      "max": "50000000000000000"
+    },
+    "product_type": "amount",
+    "parent_id": 0,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 222,
+    "name": "Bela chat 11000",
+    "price": 48.76054528688525,
+    "params": [
+      "please enter user id here"
+    ],
+    "category_name": "بيلا باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 35,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1280,
+    "name": "Helili Chat",
+    "price": 0.0007587100077220076,
+    "params": [
+      "Entee user id"
+    ],
+    "category_name": "Helili Chat",
+    "available": true,
+    "qty_values": {
+      "min": "60000",
+      "max": "5000000000000000000"
     },
     "product_type": "amount",
     "parent_id": 0,
@@ -5489,7 +5588,7 @@
   {
     "id": 50,
     "name": "MTN",
-    "price": 0.39182244750000006,
+    "price": 0.387477189,
     "params": [
       "enter your phone"
     ],
@@ -5550,24 +5649,24 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 220,
-    "name": "Bigo 23700",
-    "price": 20234.33076923077,
+    "id": 223,
+    "name": "Bela chat 42500",
+    "price": 188.39301588114753,
     "params": [
-      "enter user id"
+      "please enter user id here"
     ],
-    "category_name": "بيغو باقات",
+    "category_name": "بيلا باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 34,
+    "parent_id": 35,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
   {
     "id": 49,
     "name": "Syriatel",
-    "price": 0.39066282178217826,
+    "price": 0.3857177227722773,
     "params": [
       "enter your phone"
     ],
@@ -5626,24 +5725,24 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 221,
-    "name": "Bigo 47500",
-    "price": 40554.03846153847,
+    "id": 224,
+    "name": "Bela chat 85000",
+    "price": 376.78603176229507,
     "params": [
-      "enter user id"
+      "please enter user id here"
     ],
-    "category_name": "بيغو باقات",
+    "category_name": "بيلا باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 34,
+    "parent_id": 35,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 222,
-    "name": "Bela chat 11000",
-    "price": 48.78556352459017,
+    "id": 225,
+    "name": "Bela chat 170000",
+    "price": 753.5720635245901,
     "params": [
       "please enter user id here"
     ],
@@ -5674,9 +5773,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 223,
-    "name": "Bela chat 42500",
-    "price": 188.48967725409838,
+    "id": 226,
+    "name": "Bela chat 425000",
+    "price": 1883.9301588114754,
     "params": [
       "please enter user id here"
     ],
@@ -5707,17 +5806,17 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 224,
-    "name": "Bela chat 85000",
-    "price": 376.97935450819676,
+    "id": 227,
+    "name": "Binmo 7000",
+    "price": 136.63634594131096,
     "params": [
-      "please enter user id here"
+      "enter user id"
     ],
-    "category_name": "بيلا باقات",
+    "category_name": "بنمو باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 35,
+    "parent_id": 36,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
@@ -5740,17 +5839,17 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 225,
-    "name": "Bela chat 170000",
-    "price": 753.9587090163935,
+    "id": 228,
+    "name": "Binmo 35000",
+    "price": 683.1817297065548,
     "params": [
-      "please enter user id here"
+      "enter user id"
     ],
-    "category_name": "بيلا باقات",
+    "category_name": "بنمو باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 35,
+    "parent_id": 36,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
@@ -5773,17 +5872,17 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 226,
-    "name": "Bela chat 425000",
-    "price": 1884.8967725409836,
+    "id": 229,
+    "name": "Binmo 70000",
+    "price": 1366.3634594131097,
     "params": [
-      "please enter user id here"
+      "enter user id"
     ],
-    "category_name": "بيلا باقات",
+    "category_name": "بنمو باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 35,
+    "parent_id": 36,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
@@ -5806,9 +5905,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 227,
-    "name": "Binmo 7000",
-    "price": 132.3396145717938,
+    "id": 230,
+    "name": "Binmo 150000",
+    "price": 2927.921698742378,
     "params": [
       "enter user id"
     ],
@@ -5839,9 +5938,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 228,
-    "name": "Binmo 35000",
-    "price": 661.698072858969,
+    "id": 231,
+    "name": "Binmo 300000",
+    "price": 5855.843397484756,
     "params": [
       "enter user id"
     ],
@@ -5872,9 +5971,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 229,
-    "name": "Binmo 70000",
-    "price": 1323.396145717938,
+    "id": 232,
+    "name": "Binmo 500000",
+    "price": 9759.738995807926,
     "params": [
       "enter user id"
     ],
@@ -5905,17 +6004,17 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 230,
-    "name": "Binmo 150000",
-    "price": 2835.8488836812953,
+    "id": 233,
+    "name": "BoBo chat 24260",
+    "price": 55.53619644080077,
     "params": [
       "enter user id"
     ],
-    "category_name": "بنمو باقات",
+    "category_name": "بوبو شات باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 36,
+    "parent_id": 37,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
@@ -5938,17 +6037,17 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 231,
-    "name": "Binmo 300000",
-    "price": 5671.697767362591,
+    "id": 234,
+    "name": "BoBo chat 40440",
+    "price": 92.57558879084844,
     "params": [
       "enter user id"
     ],
-    "category_name": "بنمو باقات",
+    "category_name": "بوبو شات باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 36,
+    "parent_id": 37,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
@@ -5971,17 +6070,17 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 232,
-    "name": "Binmo 500000",
-    "price": 9452.829612270985,
+    "id": 235,
+    "name": "BoBo chat 85000",
+    "price": 194.58271630123932,
     "params": [
       "enter user id"
     ],
-    "category_name": "بنمو باقات",
+    "category_name": "بوبو شات باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 36,
+    "parent_id": 37,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
@@ -6004,9 +6103,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 233,
-    "name": "BoBo chat 24260",
-    "price": 55.96357565633937,
+    "id": 236,
+    "name": "BoBo chat 145000",
+    "price": 331.93522192564353,
     "params": [
       "enter user id"
     ],
@@ -6037,9 +6136,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 234,
-    "name": "BoBo chat 40440",
-    "price": 93.28800492755005,
+    "id": 237,
+    "name": "BoBo chat 220000",
+    "price": 503.6258539561488,
     "params": [
       "enter user id"
     ],
@@ -6070,24 +6169,24 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 235,
-    "name": "BoBo chat 85000",
-    "price": 196.0801290514776,
+    "id": 238,
+    "name": "ahlan chat 50500",
+    "price": 937.8458805555555,
     "params": [
       "enter user id"
     ],
-    "category_name": "بوبو شات باقات",
+    "category_name": "اهلا شات باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 37,
+    "parent_id": 38,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
   {
     "id": 534,
     "name": "XENA LIVE 33500",
-    "price": 176.6552462785146,
+    "price": 177.61798736842104,
     "params": [
       "enter user id"
     ],
@@ -6103,17 +6202,17 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 236,
-    "name": "BoBo chat 145000",
-    "price": 334.48963191134413,
+    "id": 239,
+    "name": "ahlan chat 9800",
+    "price": 181.99781444444443,
     "params": [
       "enter user id"
     ],
-    "category_name": "بوبو شات باقات",
+    "category_name": "اهلا شات باقات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 37,
+    "parent_id": 38,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   },
@@ -6136,54 +6235,9 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 237,
-    "name": "BoBo chat 220000",
-    "price": 507.5015104861773,
-    "params": [
-      "enter user id"
-    ],
-    "category_name": "بوبو شات باقات",
-    "available": true,
-    "qty_values": null,
-    "product_type": "package",
-    "parent_id": 37,
-    "base_price": null,
-    "category_img": "https://api.quick4store.com/"
-  },
-  {
-    "id": 238,
-    "name": "ahlan chat 50500",
-    "price": 943.5074916666667,
-    "params": [
-      "enter user id"
-    ],
-    "category_name": "اهلا شات باقات",
-    "available": true,
-    "qty_values": null,
-    "product_type": "package",
-    "parent_id": 38,
-    "base_price": null,
-    "category_img": "https://api.quick4store.com/"
-  },
-  {
-    "id": 239,
-    "name": "ahlan chat 9800",
-    "price": 183.09650333333335,
-    "params": [
-      "enter user id"
-    ],
-    "category_name": "اهلا شات باقات",
-    "available": true,
-    "qty_values": null,
-    "product_type": "package",
-    "parent_id": 38,
-    "base_price": null,
-    "category_img": "https://api.quick4store.com/"
-  },
-  {
     "id": 240,
     "name": "ahlan chat 20000",
-    "price": 373.66633333333334,
+    "price": 371.4241111111111,
     "params": [
       "enter user id"
     ],
@@ -6198,7 +6252,7 @@
   {
     "id": 241,
     "name": "ahlan chat 105000",
-    "price": 1961.74825,
+    "price": 1949.976583333333,
     "params": [
       "enter user id"
     ],
@@ -6363,7 +6417,7 @@
   {
     "id": 260,
     "name": "talk talk 50000",
-    "price": 2033.0910156931122,
+    "price": 2031.9846742671011,
     "params": [
       "enter user id"
     ],
@@ -6378,7 +6432,7 @@
   {
     "id": 261,
     "name": "talk talk 100000",
-    "price": 4066.1820313862245,
+    "price": 4063.9693485342023,
     "params": [
       "enter user id"
     ],
@@ -6393,7 +6447,7 @@
   {
     "id": 262,
     "name": "talk talk 250000",
-    "price": 10165.45507846556,
+    "price": 10159.923371335506,
     "params": [
       "enter user id"
     ],
@@ -6408,7 +6462,7 @@
   {
     "id": 263,
     "name": "talk talk 750000",
-    "price": 30496.365235396683,
+    "price": 30479.770114006515,
     "params": [
       "enter user id"
     ],
@@ -6423,7 +6477,7 @@
   {
     "id": 265,
     "name": "talk talk 11000",
-    "price": 447.28002345248467,
+    "price": 447.0366283387622,
     "params": [
       "enter user id"
     ],
@@ -6438,7 +6492,7 @@
   {
     "id": 266,
     "name": "talk talk 1m",
-    "price": 40661.82031386224,
+    "price": 40639.693485342024,
     "params": [
       "enter user id"
     ],
@@ -6723,7 +6777,7 @@
   {
     "id": 320,
     "name": "free fire 100",
-    "price": 47.448224999999994,
+    "price": 47.94768,
     "params": [
       "enter user id"
     ],
@@ -6738,7 +6792,7 @@
   {
     "id": 321,
     "name": "free fire 210",
-    "price": 94.39699499999999,
+    "price": 95.89536,
     "params": [
       "enter user id"
     ],
@@ -6753,7 +6807,7 @@
   {
     "id": 322,
     "name": "free fire 520+50",
-    "price": 235.74276,
+    "price": 239.73839999999998,
     "params": [
       "enter user id"
     ],
@@ -6768,7 +6822,7 @@
   {
     "id": 323,
     "name": "free fire 1060+106",
-    "price": 471.984975,
+    "price": 479.47679999999997,
     "params": [
       "enter user id"
     ],
@@ -6783,7 +6837,7 @@
   {
     "id": 324,
     "name": "free fire 2180+218",
-    "price": 943.96995,
+    "price": 958.9535999999999,
     "params": [
       "enter user id"
     ],
@@ -6798,7 +6852,7 @@
   {
     "id": 333,
     "name": "YOYO CHAT 1000",
-    "price": 38.39731694117647,
+    "price": 37.888068705882354,
     "params": [
       "enter user id"
     ],
@@ -6816,7 +6870,7 @@
   {
     "id": 334,
     "name": "YOYO CHAT 5150",
-    "price": 197.7461822470588,
+    "price": 195.12355383529413,
     "params": [
       "enter user id"
     ],
@@ -6834,7 +6888,7 @@
   {
     "id": 335,
     "name": "YOYO CHAT 14200",
-    "price": 545.2419005647059,
+    "price": 538.0105756235295,
     "params": [
       "enter user id"
     ],
@@ -6852,7 +6906,7 @@
   {
     "id": 336,
     "name": "YOYO CHAT 41080",
-    "price": 1577.3617799435294,
+    "price": 1556.4418624376472,
     "params": [
       "enter user id"
     ],
@@ -7371,7 +7425,7 @@
   {
     "id": 370,
     "name": "Like Znet 45",
-    "price": 39.77960176991151,
+    "price": 39.944413080000004,
     "params": [
       "enter user id"
     ],
@@ -7386,7 +7440,7 @@
   {
     "id": 371,
     "name": "Like Znet 50",
-    "price": 44.1995575221239,
+    "price": 44.38268120000001,
     "params": [
       "enter user id"
     ],
@@ -7401,7 +7455,7 @@
   {
     "id": 372,
     "name": "Like Znet 100",
-    "price": 88.3991150442478,
+    "price": 88.76536240000001,
     "params": [
       "enter user id"
     ],
@@ -7416,7 +7470,7 @@
   {
     "id": 373,
     "name": "Like Znet 200",
-    "price": 176.7982300884956,
+    "price": 177.53072480000003,
     "params": [
       "enter user id"
     ],
@@ -7431,7 +7485,7 @@
   {
     "id": 374,
     "name": "Like Znet 240",
-    "price": 212.1578761061947,
+    "price": 213.03686976000003,
     "params": [
       "enter user id"
     ],
@@ -7446,7 +7500,7 @@
   {
     "id": 375,
     "name": "Like Znet 300",
-    "price": 265.19734513274335,
+    "price": 266.29608720000004,
     "params": [
       "enter user id"
     ],
@@ -7461,7 +7515,7 @@
   {
     "id": 376,
     "name": "Like Znet 466",
-    "price": 411.9398761061947,
+    "price": 413.6465887840001,
     "params": [
       "enter user id"
     ],
@@ -7476,7 +7530,7 @@
   {
     "id": 377,
     "name": "Like Znet 480",
-    "price": 424.3157522123894,
+    "price": 426.07373952000006,
     "params": [
       "enter user id"
     ],
@@ -7491,7 +7545,7 @@
   {
     "id": 378,
     "name": "Like Znet 500",
-    "price": 441.99557522123894,
+    "price": 443.8268120000001,
     "params": [
       "enter user id"
     ],
@@ -7506,7 +7560,7 @@
   {
     "id": 379,
     "name": "Like Znet 720",
-    "price": 636.4736283185841,
+    "price": 639.1106092800001,
     "params": [
       "enter user id"
     ],
@@ -7521,7 +7575,7 @@
   {
     "id": 380,
     "name": "Like Znet 960",
-    "price": 848.6315044247788,
+    "price": 852.1474790400001,
     "params": [
       "enter user id"
     ],
@@ -7536,7 +7590,7 @@
   {
     "id": 381,
     "name": "Like Znet 1000",
-    "price": 883.9911504424779,
+    "price": 887.6536240000001,
     "params": [
       "enter user id"
     ],
@@ -7551,7 +7605,7 @@
   {
     "id": 382,
     "name": "Like Znet 1200",
-    "price": 1060.7893805309734,
+    "price": 1065.1843488000002,
     "params": [
       "enter user id"
     ],
@@ -7566,7 +7620,7 @@
   {
     "id": 383,
     "name": "Like Znet 1500",
-    "price": 1325.986725663717,
+    "price": 1331.4804360000003,
     "params": [
       "enter user id"
     ],
@@ -7581,7 +7635,7 @@
   {
     "id": 384,
     "name": "Like Znet 2000",
-    "price": 1767.9823008849557,
+    "price": 1775.3072480000003,
     "params": [
       "enter user id"
     ],
@@ -7596,7 +7650,7 @@
   {
     "id": 385,
     "name": "Like Znet 2334",
-    "price": 2063.2353451327435,
+    "price": 2071.7835584160002,
     "params": [
       "enter user id"
     ],
@@ -7611,7 +7665,7 @@
   {
     "id": 386,
     "name": "Like Znet 4669",
-    "price": 4127.354681415929,
+    "price": 4144.454770456001,
     "params": [
       "enter user id"
     ],
@@ -7626,7 +7680,7 @@
   {
     "id": 387,
     "name": "Like Znet 5000",
-    "price": 4419.95575221239,
+    "price": 4438.268120000001,
     "params": [
       "enter user id"
     ],
@@ -7641,7 +7695,7 @@
   {
     "id": 388,
     "name": "Like Znet 10000",
-    "price": 8839.91150442478,
+    "price": 8876.536240000001,
     "params": [
       "enter user id"
     ],
@@ -7656,7 +7710,7 @@
   {
     "id": 389,
     "name": "Bigo live 2470",
-    "price": 2108.81,
+    "price": 2126.9893965517244,
     "params": [
       "enter user id"
     ],
@@ -7671,7 +7725,7 @@
   {
     "id": 390,
     "name": "Bigo live 1250",
-    "price": 1067.2115384615386,
+    "price": 1076.4116379310346,
     "params": [
       "enter user id"
     ],
@@ -7686,7 +7740,7 @@
   {
     "id": 391,
     "name": "Bigo live 625",
-    "price": 533.6057692307693,
+    "price": 538.2058189655173,
     "params": [
       "enter user id"
     ],
@@ -7701,7 +7755,7 @@
   {
     "id": 392,
     "name": "Bigo live 125",
-    "price": 106.72115384615385,
+    "price": 107.64116379310346,
     "params": [
       "enter user id"
     ],
@@ -7716,7 +7770,7 @@
   {
     "id": 393,
     "name": "Bigo live 14599",
-    "price": 12464.177000000001,
+    "price": 12571.626801724138,
     "params": [
       "enter user id"
     ],
@@ -7731,7 +7785,7 @@
   {
     "id": 394,
     "name": "Bigo live 12525",
-    "price": 10693.459615384616,
+    "price": 10785.644612068967,
     "params": [
       "enter user id"
     ],
@@ -7746,7 +7800,7 @@
   {
     "id": 395,
     "name": "Bigo live 4970",
-    "price": 4243.2330769230775,
+    "price": 4279.812672413794,
     "params": [
       "enter user id"
     ],
@@ -7761,7 +7815,7 @@
   {
     "id": 397,
     "name": "Bigo live 250",
-    "price": 213.4423076923077,
+    "price": 215.28232758620692,
     "params": [
       "enter user id"
     ],
@@ -8136,7 +8190,7 @@
   {
     "id": 430,
     "name": "ahlan chat 213000",
-    "price": 3979.5464500000003,
+    "price": 3955.6667833333327,
     "params": [
       "enter user id"
     ],
@@ -8151,7 +8205,7 @@
   {
     "id": 431,
     "name": "ahlan chat 323000",
-    "price": 6034.711283333334,
+    "price": 5998.499394444444,
     "params": [
       "enter user id"
     ],
@@ -8166,7 +8220,7 @@
   {
     "id": 432,
     "name": "ahlan chat 430000",
-    "price": 8033.826166666668,
+    "price": 7985.618388888888,
     "params": [
       "enter user id"
     ],
@@ -8391,7 +8445,7 @@
   {
     "id": 461,
     "name": "Wyak chat 2m500k",
-    "price": 260.9712855019815,
+    "price": 257.36997523117566,
     "params": [
       "enter user id"
     ],
@@ -8406,7 +8460,7 @@
   {
     "id": 462,
     "name": "Wyak chat 6m500k",
-    "price": 678.525342305152,
+    "price": 669.1619356010567,
     "params": [
       "enter user id"
     ],
@@ -8421,7 +8475,7 @@
   {
     "id": 463,
     "name": "Wyak chat 20m",
-    "price": 2087.770284015852,
+    "price": 2058.9598018494053,
     "params": [
       "enter user id"
     ],
@@ -8436,7 +8490,7 @@
   {
     "id": 464,
     "name": "Wyak chat 80m",
-    "price": 8351.081136063409,
+    "price": 8235.839207397621,
     "params": [
       "enter user id"
     ],
@@ -8451,7 +8505,7 @@
   {
     "id": 465,
     "name": "Fance live 9600000",
-    "price": 25436.650576271186,
+    "price": 24699.225491525427,
     "params": [
       "enter user id"
     ],
@@ -8466,7 +8520,7 @@
   {
     "id": 466,
     "name": "Fance live 4800000",
-    "price": 12718.325288135593,
+    "price": 12349.612745762714,
     "params": [
       "enter user id"
     ],
@@ -8481,7 +8535,7 @@
   {
     "id": 467,
     "name": "Fance live 1440000",
-    "price": 3815.497586440678,
+    "price": 3704.883823728814,
     "params": [
       "enter user id"
     ],
@@ -8496,7 +8550,7 @@
   {
     "id": 468,
     "name": "Fance live 960000",
-    "price": 2543.6650576271186,
+    "price": 2469.9225491525426,
     "params": [
       "enter user id"
     ],
@@ -8511,7 +8565,7 @@
   {
     "id": 469,
     "name": "Fance live 480000",
-    "price": 1271.8325288135593,
+    "price": 1234.9612745762713,
     "params": [
       "enter user id"
     ],
@@ -8526,7 +8580,7 @@
   {
     "id": 470,
     "name": "Fance live 192000",
-    "price": 508.73301152542376,
+    "price": 493.98450983050856,
     "params": [
       "enter user id"
     ],
@@ -8541,7 +8595,7 @@
   {
     "id": 471,
     "name": "Fance live 48000",
-    "price": 127.18325288135594,
+    "price": 123.49612745762714,
     "params": [
       "enter user id"
     ],
@@ -8556,7 +8610,7 @@
   {
     "id": 472,
     "name": "Fance live 10000",
-    "price": 26.496511016949153,
+    "price": 25.728359887005652,
     "params": [
       "enter user id"
     ],
@@ -8631,7 +8685,7 @@
   {
     "id": 480,
     "name": "Bella chat 850000",
-    "price": 3769.7935450819673,
+    "price": 3767.860317622951,
     "params": [
       "please enter user id here"
     ],
@@ -8646,7 +8700,7 @@
   {
     "id": 481,
     "name": "Bella chat 45K",
-    "price": 199.57730532786886,
+    "price": 199.47495799180328,
     "params": [
       "please enter user id here"
     ],
@@ -8661,7 +8715,7 @@
   {
     "id": 482,
     "name": "Bella chat 18K",
-    "price": 79.83092213114755,
+    "price": 79.78998319672131,
     "params": [
       "please enter user id here"
     ],
@@ -8676,7 +8730,7 @@
   {
     "id": 483,
     "name": "Bella chat 9K",
-    "price": 39.91546106557377,
+    "price": 39.894991598360654,
     "params": [
       "please enter user id here"
     ],
@@ -8691,7 +8745,7 @@
   {
     "id": 484,
     "name": "Bella chat 4500",
-    "price": 19.957730532786886,
+    "price": 19.947495799180327,
     "params": [
       "please enter user id here"
     ],
@@ -8766,7 +8820,7 @@
   {
     "id": 489,
     "name": "Ohlla chat 200 K",
-    "price": 7284.448947368422,
+    "price": 7165.906410624552,
     "params": [
       "Please enter user id here"
     ],
@@ -8781,7 +8835,7 @@
   {
     "id": 490,
     "name": "Ohlla chat 100 K",
-    "price": 3642.224473684211,
+    "price": 3582.953205312276,
     "params": [
       "Please enter user id here"
     ],
@@ -8796,7 +8850,7 @@
   {
     "id": 491,
     "name": "Ohlla chat 50 K",
-    "price": 1821.1122368421054,
+    "price": 1791.476602656138,
     "params": [
       "Please enter user id here"
     ],
@@ -8811,7 +8865,7 @@
   {
     "id": 492,
     "name": "Ohlla chat 25 K",
-    "price": 910.5561184210527,
+    "price": 895.738301328069,
     "params": [
       "Please enter user id here"
     ],
@@ -8826,7 +8880,7 @@
   {
     "id": 493,
     "name": "Ohlla chat 10 K",
-    "price": 364.22244736842106,
+    "price": 358.2953205312276,
     "params": [
       "Please enter user id here"
     ],
@@ -8856,7 +8910,7 @@
   {
     "id": 495,
     "name": "Haki chat 70K",
-    "price": 1934.5557000000003,
+    "price": 1934.607294687327,
     "params": [
       "enter user id"
     ],
@@ -8871,7 +8925,7 @@
   {
     "id": 496,
     "name": "Haki chat 3500",
-    "price": 96.72778500000003,
+    "price": 96.73036473436635,
     "params": [
       "enter user id"
     ],
@@ -8886,7 +8940,7 @@
   {
     "id": 497,
     "name": "Haki chat 1000",
-    "price": 27.636510000000005,
+    "price": 27.637247066961816,
     "params": [
       "enter user id"
     ],
@@ -8961,7 +9015,7 @@
   {
     "id": 505,
     "name": "Binmo chat1000",
-    "price": 18.90565922454197,
+    "price": 19.51947799161585,
     "params": [
       "enter user id"
     ],
@@ -8976,7 +9030,7 @@
   {
     "id": 506,
     "name": "Binmo chat 3500",
-    "price": 66.1698072858969,
+    "price": 68.31817297065548,
     "params": [
       "enter user id"
     ],
@@ -8991,7 +9045,7 @@
   {
     "id": 507,
     "name": "Binmo chat 140000",
-    "price": 2646.792291435876,
+    "price": 2732.7269188262194,
     "params": [
       "enter user id"
     ],
@@ -9066,7 +9120,7 @@
   {
     "id": 518,
     "name": "Light chat 200k",
-    "price": 2597.166,
+    "price": 2514.811131339402,
     "params": [
       "enter user id"
     ],
@@ -9081,7 +9135,7 @@
   {
     "id": 519,
     "name": "Light chat 100k",
-    "price": 1298.583,
+    "price": 1257.405565669701,
     "params": [
       "enter user id"
     ],
@@ -9096,7 +9150,7 @@
   {
     "id": 520,
     "name": "Light chat 50k",
-    "price": 649.2915,
+    "price": 628.7027828348505,
     "params": [
       "enter user id"
     ],
@@ -9111,7 +9165,7 @@
   {
     "id": 521,
     "name": "Light chat 10k",
-    "price": 129.8583,
+    "price": 125.7405565669701,
     "params": [
       "enter user id"
     ],
@@ -9216,7 +9270,7 @@
   {
     "id": 535,
     "name": "XENA LIVE 6700",
-    "price": 35.331049255702915,
+    "price": 35.52359747368421,
     "params": [
       "enter user id"
     ],
@@ -9231,7 +9285,7 @@
   {
     "id": 536,
     "name": "XENA LIVE 67500",
-    "price": 355.9471380238727,
+    "price": 357.8869894736842,
     "params": [
       "enter user id"
     ],
@@ -9249,7 +9303,7 @@
   {
     "id": 537,
     "name": "XENA LIVE 202500",
-    "price": 1067.8414140716181,
+    "price": 1073.6609684210525,
     "params": [
       "enter user id"
     ],
@@ -9267,7 +9321,7 @@
   {
     "id": 538,
     "name": "XENA LIVE 406800",
-    "price": 2145.1747518238726,
+    "price": 2156.865589894737,
     "params": [
       "enter user id"
     ],
@@ -9285,7 +9339,7 @@
   {
     "id": 539,
     "name": "XENA LIVE 680000",
-    "price": 3585.837834907162,
+    "price": 3605.3800421052633,
     "params": [
       "enter user id"
     ],
@@ -9303,7 +9357,7 @@
   {
     "id": 540,
     "name": "XENA LIVE 1000000",
-    "price": 5273.2909336870025,
+    "price": 5302.029473684211,
     "params": [
       "enter user id"
     ],
@@ -9321,7 +9375,7 @@
   {
     "id": 541,
     "name": "Ahlan chat ZNET 100K",
-    "price": 1868.331666666667,
+    "price": 1857.1205555555553,
     "params": [
       "enter user id"
     ],
@@ -9336,7 +9390,7 @@
   {
     "id": 542,
     "name": "Ahlan chat ZNET 50k",
-    "price": 934.1658333333335,
+    "price": 928.5602777777776,
     "params": [
       "enter user id"
     ],
@@ -9351,7 +9405,7 @@
   {
     "id": 543,
     "name": "Ahlan chat ZNET 25k",
-    "price": 467.08291666666673,
+    "price": 464.2801388888888,
     "params": [
       "enter user id"
     ],
@@ -9366,7 +9420,7 @@
   {
     "id": 544,
     "name": "Ahlan chat ZNET 15k",
-    "price": 280.24975,
+    "price": 278.5680833333333,
     "params": [
       "enter user id"
     ],
@@ -9381,7 +9435,7 @@
   {
     "id": 545,
     "name": "Ahlan chat ZNET 10k",
-    "price": 186.83316666666667,
+    "price": 185.71205555555554,
     "params": [
       "enter user id"
     ],
@@ -9396,7 +9450,7 @@
   {
     "id": 546,
     "name": "Ahlan chat ZNET 5k",
-    "price": 93.41658333333334,
+    "price": 92.85602777777777,
     "params": [
       "enter user id"
     ],
@@ -9411,7 +9465,7 @@
   {
     "id": 547,
     "name": "Ahlan chat ZNET 4k",
-    "price": 74.73326666666668,
+    "price": 74.28482222222222,
     "params": [
       "enter user id"
     ],
@@ -9426,7 +9480,7 @@
   {
     "id": 548,
     "name": "Ahlan chat ZNET 3K",
-    "price": 56.04995,
+    "price": 55.71361666666666,
     "params": [
       "enter user id"
     ],
@@ -9441,7 +9495,7 @@
   {
     "id": 549,
     "name": "Soul chill  Znet 100k",
-    "price": 8593.033012048192,
+    "price": 8622.261015490532,
     "params": [
       "Please enter user id here"
     ],
@@ -9456,7 +9510,7 @@
   {
     "id": 550,
     "name": "Soul chill  Znet 50K",
-    "price": 4296.516506024096,
+    "price": 4311.130507745266,
     "params": [
       "Please enter user id here"
     ],
@@ -9471,7 +9525,7 @@
   {
     "id": 551,
     "name": "Soul chill  Znet 25K",
-    "price": 2148.258253012048,
+    "price": 2155.565253872633,
     "params": [
       "Please enter user id here"
     ],
@@ -9486,7 +9540,7 @@
   {
     "id": 552,
     "name": "Soul chill  Znet 10k",
-    "price": 859.3033012048193,
+    "price": 862.2261015490533,
     "params": [
       "Please enter user id here"
     ],
@@ -9501,7 +9555,7 @@
   {
     "id": 553,
     "name": "Soul chill  Znet 15k",
-    "price": 1288.954951807229,
+    "price": 1293.33915232358,
     "params": [
       "Please enter user id here"
     ],
@@ -9516,7 +9570,7 @@
   {
     "id": 554,
     "name": "Soul chill  Znet 5k",
-    "price": 429.65165060240963,
+    "price": 431.11305077452664,
     "params": [
       "Please enter user id here"
     ],
@@ -9531,7 +9585,7 @@
   {
     "id": 555,
     "name": "Soul chill  Znet 4k",
-    "price": 343.7213204819277,
+    "price": 344.8904406196213,
     "params": [
       "Please enter user id here"
     ],
@@ -9546,7 +9600,7 @@
   {
     "id": 556,
     "name": "Soul chill  Znet 3k",
-    "price": 257.7909903614458,
+    "price": 258.66783046471596,
     "params": [
       "Please enter user id here"
     ],
@@ -9561,7 +9615,7 @@
   {
     "id": 557,
     "name": "Soul chill  Znet 2k",
-    "price": 171.86066024096385,
+    "price": 172.44522030981065,
     "params": [
       "Please enter user id here"
     ],
@@ -9576,7 +9630,7 @@
   {
     "id": 558,
     "name": "Soul chill Znet 1k",
-    "price": 85.93033012048193,
+    "price": 86.22261015490533,
     "params": [
       "Please enter user id here"
     ],
@@ -9591,7 +9645,7 @@
   {
     "id": 559,
     "name": "Soul chill Znet 500",
-    "price": 42.96516506024096,
+    "price": 43.11130507745266,
     "params": [
       "Please enter user id here"
     ],
@@ -9606,7 +9660,7 @@
   {
     "id": 560,
     "name": "Soul chill Znet 1500",
-    "price": 128.8954951807229,
+    "price": 129.33391523235798,
     "params": [
       "Please enter user id here"
     ],
@@ -9621,7 +9675,7 @@
   {
     "id": 561,
     "name": "Soul chill Znet 750",
-    "price": 64.44774759036144,
+    "price": 64.66695761617899,
     "params": [
       "Please enter user id here"
     ],
@@ -9636,7 +9690,7 @@
   {
     "id": 562,
     "name": "HAKI CHAT ZNET  20K",
-    "price": 552.7302000000001,
+    "price": 552.7449413392363,
     "params": [
       "enter user id"
     ],
@@ -9651,7 +9705,7 @@
   {
     "id": 563,
     "name": "HAKI CHAT ZNET  10K",
-    "price": 276.36510000000004,
+    "price": 276.37247066961817,
     "params": [
       "enter user id"
     ],
@@ -9666,7 +9720,7 @@
   {
     "id": 564,
     "name": "HAKI CHAT ZNET  5K",
-    "price": 138.18255000000002,
+    "price": 138.18623533480908,
     "params": [
       "enter user id"
     ],
@@ -9681,7 +9735,7 @@
   {
     "id": 565,
     "name": "HAKI CHAT ZNET  3k",
-    "price": 82.90953000000002,
+    "price": 82.91174120088544,
     "params": [
       "enter user id"
     ],
@@ -9696,7 +9750,7 @@
   {
     "id": 566,
     "name": "HAKI CHAT ZNET  2k",
-    "price": 55.27302000000001,
+    "price": 55.27449413392363,
     "params": [
       "enter user id"
     ],
@@ -9876,7 +9930,7 @@
   {
     "id": 581,
     "name": "TALK TALK ZNET",
-    "price": 40.66182031386224,
+    "price": 40.63969348534202,
     "params": [
       "please enter user id here"
     ],
@@ -9891,7 +9945,7 @@
   {
     "id": 582,
     "name": "TALK TALK ZNET 2k",
-    "price": 81.32364062772449,
+    "price": 81.27938697068404,
     "params": [
       "please enter user id here"
     ],
@@ -9906,7 +9960,7 @@
   {
     "id": 583,
     "name": "TALK TALK ZNET 3k",
-    "price": 121.98546094158672,
+    "price": 121.91908045602607,
     "params": [
       "please enter user id here"
     ],
@@ -9921,7 +9975,7 @@
   {
     "id": 584,
     "name": "TALK TALK ZNET 5k",
-    "price": 203.30910156931122,
+    "price": 203.1984674267101,
     "params": [
       "please enter user id here"
     ],
@@ -9936,7 +9990,7 @@
   {
     "id": 585,
     "name": "TALK TALK ZNET 10k",
-    "price": 406.61820313862245,
+    "price": 406.3969348534202,
     "params": [
       "please enter user id here"
     ],
@@ -9951,7 +10005,7 @@
   {
     "id": 586,
     "name": "TALK TALK ZNET 15k",
-    "price": 609.9273047079337,
+    "price": 609.5954022801303,
     "params": [
       "please enter user id here"
     ],
@@ -9966,7 +10020,7 @@
   {
     "id": 587,
     "name": "TALK TALK ZNET 20k",
-    "price": 813.2364062772449,
+    "price": 812.7938697068404,
     "params": [
       "please enter user id here"
     ],
@@ -9981,7 +10035,7 @@
   {
     "id": 588,
     "name": "TALK TALK ZNET 25k",
-    "price": 1016.5455078465561,
+    "price": 1015.9923371335506,
     "params": [
       "please enter user id here"
     ],
@@ -9996,7 +10050,7 @@
   {
     "id": 589,
     "name": "TALK TALK ZNET 30k",
-    "price": 1219.8546094158673,
+    "price": 1219.1908045602606,
     "params": [
       "please enter user id here"
     ],
@@ -10011,7 +10065,7 @@
   {
     "id": 590,
     "name": "TALK TALK ZNET 50k",
-    "price": 2033.0910156931122,
+    "price": 2031.9846742671011,
     "params": [
       "please enter user id here"
     ],
@@ -10026,7 +10080,7 @@
   {
     "id": 591,
     "name": "TALK TALK ZNET 75k",
-    "price": 3049.6365235396684,
+    "price": 3047.9770114006515,
     "params": [
       "please enter user id here"
     ],
@@ -10041,7 +10095,7 @@
   {
     "id": 592,
     "name": "TALK TALK ZNET 100k",
-    "price": 4066.1820313862245,
+    "price": 4063.9693485342023,
     "params": [
       "please enter user id here"
     ],
@@ -10281,7 +10335,7 @@
   {
     "id": 608,
     "name": "Bigo znet 500",
-    "price": 426.8846153846154,
+    "price": 430.56465517241384,
     "params": [
       "please enter user id here"
     ],
@@ -10296,7 +10350,7 @@
   {
     "id": 609,
     "name": "Bigo znet 1000",
-    "price": 853.7692307692308,
+    "price": 861.1293103448277,
     "params": [
       "please enter user id here"
     ],
@@ -10688,7 +10742,7 @@
   {
     "id": 665,
     "name": "Ahlan chat znet7500",
-    "price": 140.124875,
+    "price": 139.28404166666664,
     "params": [
       "enter user id"
     ],
@@ -10703,7 +10757,7 @@
   {
     "id": 666,
     "name": "Toptop 16875k",
-    "price": 36.45,
+    "price": 36.26753192380155,
     "params": [
       "enter user id"
     ],
@@ -10718,7 +10772,7 @@
   {
     "id": 667,
     "name": "Toptop 88425k",
-    "price": 190.998,
+    "price": 190.0418672807201,
     "params": [
       "enter user id"
     ],
@@ -10733,7 +10787,7 @@
   {
     "id": 668,
     "name": "Toptop 184725k",
-    "price": 399.00600000000003,
+    "price": 397.0085827925476,
     "params": [
       "enter user id"
     ],
@@ -10748,7 +10802,7 @@
   {
     "id": 669,
     "name": "Toptop 377775k",
-    "price": 815.994,
+    "price": 811.9091480008373,
     "params": [
       "enter user id"
     ],
@@ -10763,7 +10817,7 @@
   {
     "id": 670,
     "name": "Toptop 964350k",
-    "price": 2082.996,
+    "price": 2072.568557672179,
     "params": [
       "enter user id"
     ],
@@ -10778,7 +10832,7 @@
   {
     "id": 671,
     "name": "Toptop 2009025",
-    "price": 4339.494,
+    "price": 4317.7705673016535,
     "params": [
       "enter user id"
     ],
@@ -10793,7 +10847,7 @@
   {
     "id": 672,
     "name": "Ahlan chat 100k",
-    "price": 1868.331666666667,
+    "price": 1857.1205555555553,
     "params": [
       "Enter user id"
     ],
@@ -10808,7 +10862,7 @@
   {
     "id": 673,
     "name": "Ahlan chat 200k",
-    "price": 3736.663333333334,
+    "price": 3714.2411111111105,
     "params": [
       "Enter user id"
     ],
@@ -10823,7 +10877,7 @@
   {
     "id": 674,
     "name": "Ahlan chat 500k",
-    "price": 9341.658333333335,
+    "price": 9285.602777777776,
     "params": [
       "Enter user id"
     ],
@@ -10838,7 +10892,7 @@
   {
     "id": 675,
     "name": "Ahlan chat 1m",
-    "price": 18683.31666666667,
+    "price": 18571.205555555553,
     "params": [
       "Enter user id"
     ],
@@ -10928,7 +10982,7 @@
   {
     "id": 689,
     "name": "Xena live 5m",
-    "price": 26366.454668435013,
+    "price": 26510.147368421054,
     "params": [
       "Enter user id"
     ],
@@ -10946,7 +11000,7 @@
   {
     "id": 694,
     "name": "Wahi chat  10 k",
-    "price": 48.99019127023051,
+    "price": 48.84645476772617,
     "params": [
       "Enter usee id"
     ],
@@ -10964,7 +11018,7 @@
   {
     "id": 695,
     "name": "Wahi chat  20 k",
-    "price": 97.98038254046102,
+    "price": 97.69290953545234,
     "params": [
       "Enter usee id"
     ],
@@ -10982,7 +11036,7 @@
   {
     "id": 696,
     "name": "Wahi chat  50 k",
-    "price": 244.95095635115254,
+    "price": 244.23227383863085,
     "params": [
       "Enter usee id"
     ],
@@ -11000,7 +11054,7 @@
   {
     "id": 697,
     "name": "Wahi chat  100 k",
-    "price": 489.9019127023051,
+    "price": 488.4645476772617,
     "params": [
       "Enter usee id"
     ],
@@ -11018,7 +11072,7 @@
   {
     "id": 698,
     "name": "Wahi chat  250 k",
-    "price": 1224.7547817557627,
+    "price": 1221.1613691931543,
     "params": [
       "Enter usee id"
     ],
@@ -11036,7 +11090,7 @@
   {
     "id": 699,
     "name": "Wahi chat  1milion",
-    "price": 4899.019127023051,
+    "price": 4884.645476772617,
     "params": [
       "Enter usee id"
     ],
@@ -11054,7 +11108,7 @@
   {
     "id": 701,
     "name": "Suog chat 20k",
-    "price": 136.6497948016416,
+    "price": 135.84143605086015,
     "params": [
       "Enter user id"
     ],
@@ -11072,7 +11126,7 @@
   {
     "id": 702,
     "name": "Suog chat 50k",
-    "price": 341.62448700410397,
+    "price": 339.6035901271504,
     "params": [
       "Enter user id"
     ],
@@ -11090,7 +11144,7 @@
   {
     "id": 703,
     "name": "Suog chat 180k",
-    "price": 1229.8481532147744,
+    "price": 1222.5729244577415,
     "params": [
       "Enter user id"
     ],
@@ -11108,7 +11162,7 @@
   {
     "id": 704,
     "name": "Suog chat 400k",
-    "price": 2732.9958960328318,
+    "price": 2716.8287210172034,
     "params": [
       "Enter user id"
     ],
@@ -11126,7 +11180,7 @@
   {
     "id": 705,
     "name": "Suog chat 1,600,000k",
-    "price": 10931.983584131327,
+    "price": 10867.314884068814,
     "params": [
       "Enter user id"
     ],
@@ -11144,7 +11198,7 @@
   {
     "id": 706,
     "name": "Suog chat 2,800,000k",
-    "price": 19130.971272229825,
+    "price": 19017.80104712042,
     "params": [
       "Enter user id"
     ],
@@ -11162,7 +11216,7 @@
   {
     "id": 707,
     "name": "Cocoo live 25k",
-    "price": 125.45769648648647,
+    "price": 131.55914675675675,
     "params": [
       "Enter user id"
     ],
@@ -11180,7 +11234,7 @@
   {
     "id": 708,
     "name": "Cocoo live 55k",
-    "price": 276.0069322702702,
+    "price": 289.4301228648648,
     "params": [
       "Enter user id"
     ],
@@ -11198,7 +11252,7 @@
   {
     "id": 709,
     "name": "Cocoo live 150k",
-    "price": 752.7461789189189,
+    "price": 789.3548805405404,
     "params": [
       "Enter user id"
     ],
@@ -11216,7 +11270,7 @@
   {
     "id": 710,
     "name": "Cocoo live 500k",
-    "price": 2509.1539297297295,
+    "price": 2631.182935135135,
     "params": [
       "Enter user id"
     ],
@@ -11360,7 +11414,7 @@
   {
     "id": 718,
     "name": "Cocoo live 1m",
-    "price": 5018.307859459459,
+    "price": 5262.36587027027,
     "params": [
       "Enter user id"
     ],
@@ -11378,7 +11432,7 @@
   {
     "id": 724,
     "name": "صدى شات 15 الف",
-    "price": 49.945499999999996,
+    "price": 100000000000,
     "params": [
       "Enter user id"
     ],
@@ -11396,7 +11450,7 @@
   {
     "id": 725,
     "name": "صدى شات 72 الف",
-    "price": 49.945499999999996,
+    "price": 100000000000,
     "params": [
       "Enter user id"
     ],
@@ -11414,7 +11468,7 @@
   {
     "id": 726,
     "name": "صدى شات 360 الف",
-    "price": 49.945499999999996,
+    "price": 100000000000,
     "params": [
       "Enter user id"
     ],
@@ -11432,7 +11486,7 @@
   {
     "id": 727,
     "name": "صدى شات 720 الف",
-    "price": 49.945499999999996,
+    "price": 100000000000,
     "params": [
       "Enter user id"
     ],
@@ -11450,7 +11504,7 @@
   {
     "id": 728,
     "name": "صدى شات 1440000 الف",
-    "price": 49.945499999999996,
+    "price": 100000000000,
     "params": [
       "Enter user id"
     ],
@@ -11483,7 +11537,7 @@
   {
     "id": 731,
     "name": "غوغل بلاي 50 ليرة",
-    "price": 50.444955,
+    "price": 49.945499999999996,
     "params": [
       "Namper"
     ],
@@ -11513,7 +11567,7 @@
   {
     "id": 733,
     "name": "غوغل بلاي 250 ليرة",
-    "price": 251.22586500000003,
+    "price": 250.72641,
     "params": [
       "Namper"
     ],
@@ -11528,7 +11582,7 @@
   {
     "id": 734,
     "name": "غوغل بلاي 500 ليرة",
-    "price": 501.95227500000004,
+    "price": 500.95336499999996,
     "params": [
       "Namper"
     ],
@@ -11543,7 +11597,7 @@
   {
     "id": 735,
     "name": "غوغل بلاي 1000 ليرة",
-    "price": 1003.9045500000001,
+    "price": 1001.9067299999999,
     "params": [
       "Namper"
     ],
@@ -11558,7 +11612,7 @@
   {
     "id": 736,
     "name": "Yahllan chat 3000",
-    "price": 262.93702413127414,
+    "price": 262.5854333882444,
     "params": [
       "Enter user id"
     ],
@@ -11573,7 +11627,7 @@
   {
     "id": 737,
     "name": "Yahllan chat 10800",
-    "price": 946.5732868725869,
+    "price": 945.3075601976798,
     "params": [
       "Enter user id"
     ],
@@ -11588,7 +11642,7 @@
   {
     "id": 738,
     "name": "Yahllan chat 29000",
-    "price": 2541.724566602317,
+    "price": 2538.3258560863624,
     "params": [
       "Enter user id"
     ],
@@ -11603,7 +11657,7 @@
   {
     "id": 739,
     "name": "Yahllan chat 55000",
-    "price": 4820.512109073359,
+    "price": 4814.06627878448,
     "params": [
       "Enter user id"
     ],
@@ -11618,7 +11672,7 @@
   {
     "id": 740,
     "name": "Yahllan chat 86200",
-    "price": 7555.05716003861,
+    "price": 7544.954786022222,
     "params": [
       "Enter user id"
     ],
@@ -11693,7 +11747,7 @@
   {
     "id": 754,
     "name": "Free Fire Weekly Membership",
-    "price": 109.88010000000001,
+    "price": 110.87901000000001,
     "params": [
       "Enter user id"
     ],
@@ -11708,7 +11762,7 @@
   {
     "id": 755,
     "name": "Free Fire Monthly Membership",
-    "price": 526.9250250000001,
+    "price": 554.894505,
     "params": [
       "Enter user id"
     ],
@@ -11828,7 +11882,7 @@
   {
     "id": 765,
     "name": "Dimo chat 1000",
-    "price": 45.22254304147465,
+    "price": 45.199526682027646,
     "params": [
       "Enter user id"
     ],
@@ -11843,7 +11897,7 @@
   {
     "id": 766,
     "name": "Dimo chat 2300",
-    "price": 104.0118489953917,
+    "price": 103.95891136866359,
     "params": [
       "Enter user id"
     ],
@@ -11858,7 +11912,7 @@
   {
     "id": 767,
     "name": "Dimo chat 5200",
-    "price": 235.1572238156682,
+    "price": 235.03753874654376,
     "params": [
       "Enter user id"
     ],
@@ -11873,7 +11927,7 @@
   {
     "id": 768,
     "name": "Dimo chat 10k",
-    "price": 452.22543041474654,
+    "price": 451.99526682027647,
     "params": [
       "Enter user id"
     ],
@@ -11948,7 +12002,7 @@
   {
     "id": 773,
     "name": "Layal chat 900",
-    "price": 9.938304222860932,
+    "price": 10.024011172491546,
     "params": [
       "Enter user id"
     ],
@@ -11963,7 +12017,7 @@
   {
     "id": 774,
     "name": "Layal chat 5550k",
-    "price": 61.28620937430909,
+    "price": 61.814735563697866,
     "params": [
       "Enter user id"
     ],
@@ -11978,7 +12032,7 @@
   {
     "id": 775,
     "name": "Layal chat 6100k",
-    "price": 67.35961751050188,
+    "price": 67.94052016910936,
     "params": [
       "Enter user id"
     ],
@@ -11993,7 +12047,7 @@
   {
     "id": 776,
     "name": "Layal chat 12200k",
-    "price": 134.71923502100375,
+    "price": 135.88104033821872,
     "params": [
       "Enter user id"
     ],
@@ -12008,7 +12062,7 @@
   {
     "id": 777,
     "name": "Layal chat 30499k",
-    "price": 336.78704499226177,
+    "price": 339.6914630553552,
     "params": [
       "Enter user id"
     ],
@@ -12023,7 +12077,7 @@
   {
     "id": 778,
     "name": "Layal chat 61k",
-    "price": 673.5961751050188,
+    "price": 679.4052016910937,
     "params": [
       "Enter user id"
     ],
@@ -12038,7 +12092,7 @@
   {
     "id": 784,
     "name": "Hi party 21 k",
-    "price": 102.96983219178082,
+    "price": 107.12055410958904,
     "params": [
       "Enter user id"
     ],
@@ -12053,7 +12107,7 @@
   {
     "id": 785,
     "name": "Hi party 35 k",
-    "price": 171.6163869863014,
+    "price": 178.53425684931506,
     "params": [
       "Enter user id"
     ],
@@ -12068,7 +12122,7 @@
   {
     "id": 786,
     "name": "Hi party 70 k",
-    "price": 343.2327739726028,
+    "price": 357.0685136986301,
     "params": [
       "Enter user id"
     ],
@@ -12083,7 +12137,7 @@
   {
     "id": 787,
     "name": "Hi party 175 k",
-    "price": 858.0819349315069,
+    "price": 892.6712842465753,
     "params": [
       "Enter user id"
     ],
@@ -12098,7 +12152,7 @@
   {
     "id": 788,
     "name": "Hi party 354 k",
-    "price": 1735.7771712328768,
+    "price": 1805.7464835616438,
     "params": [
       "Enter user id"
     ],
@@ -12113,7 +12167,7 @@
   {
     "id": 789,
     "name": "Hi party 715 k",
-    "price": 3505.877619863014,
+    "price": 3647.199818493151,
     "params": [
       "Enter user id"
     ],
@@ -12128,7 +12182,7 @@
   {
     "id": 790,
     "name": "Hi party 1m 445k",
-    "price": 7085.305119863014,
+    "price": 7370.914318493151,
     "params": [
       "Enter user id"
     ],
@@ -12143,7 +12197,7 @@
   {
     "id": 799,
     "name": "Sugo chat 4m",
-    "price": 27329.958960328317,
+    "price": 27168.28721017203,
     "params": [
       "Enter user id"
     ],
@@ -12158,7 +12212,7 @@
   {
     "id": 800,
     "name": "Sugo chat 10m",
-    "price": 68324.8974008208,
+    "price": 67920.71802543008,
     "params": [
       "Enter user id"
     ],
@@ -12173,7 +12227,7 @@
   {
     "id": 801,
     "name": "Sugo chat 1m",
-    "price": 6832.489740082079,
+    "price": 6792.071802543008,
     "params": [
       "Enter user id"
     ],
@@ -12308,7 +12362,7 @@
   {
     "id": 821,
     "name": "Binamo chat 1m",
-    "price": 18905.65922454197,
+    "price": 19519.47799161585,
     "params": [
       "Enter user id"
     ],
@@ -12323,7 +12377,7 @@
   {
     "id": 822,
     "name": "Binamo chat 490k",
-    "price": 9263.773020025565,
+    "price": 9564.544215891767,
     "params": [
       "Enter user id"
     ],
@@ -12518,7 +12572,7 @@
   {
     "id": 842,
     "name": "Layla chat 137245",
-    "price": 1515.5361811850541,
+    "price": 1528.6060148540025,
     "params": [
       "Enter user id"
     ],
@@ -12533,7 +12587,7 @@
   {
     "id": 843,
     "name": "Layla chat 274500",
-    "price": 3031.1827879725843,
+    "price": 3057.3234076099216,
     "params": [
       "Enter user id"
     ],
@@ -12548,7 +12602,7 @@
   {
     "id": 844,
     "name": "Amar chat 5000",
-    "price": 209.62420147058825,
+    "price": 211.65979537815127,
     "params": [
       "Enter user id"
     ],
@@ -12563,7 +12617,7 @@
   {
     "id": 845,
     "name": "Amar chat 25k",
-    "price": 1048.1210073529412,
+    "price": 1058.2989768907564,
     "params": [
       "Enter user id"
     ],
@@ -12578,7 +12632,7 @@
   {
     "id": 846,
     "name": "Amar chat 90k",
-    "price": 3773.2356264705886,
+    "price": 3809.876316806723,
     "params": [
       "Enter user id"
     ],
@@ -12593,7 +12647,7 @@
   {
     "id": 847,
     "name": "Amar chat 165000k",
-    "price": 6917.5986485294125,
+    "price": 6984.773247478992,
     "params": [
       "Enter user id"
     ],
@@ -12608,7 +12662,7 @@
   {
     "id": 848,
     "name": "Amar chat 500,000k",
-    "price": 20962.420147058827,
+    "price": 21165.97953781513,
     "params": [
       "Enter user id"
     ],
@@ -12623,7 +12677,7 @@
   {
     "id": 849,
     "name": "Amar chat 1m",
-    "price": 41924.840294117654,
+    "price": 42331.95907563026,
     "params": [
       "Enter user id"
     ],
@@ -12638,7 +12692,7 @@
   {
     "id": 862,
     "name": "Pawa live 30k",
-    "price": 119.53302836538461,
+    "price": 119.47299771634614,
     "params": [
       "Enter user id"
     ],
@@ -12656,7 +12710,7 @@
   {
     "id": 863,
     "name": "Pawa live 100k",
-    "price": 398.4434278846154,
+    "price": 398.24332572115384,
     "params": [
       "Enter user id"
     ],
@@ -12674,7 +12728,7 @@
   {
     "id": 864,
     "name": "Pawa live 300k",
-    "price": 1195.3302836538462,
+    "price": 1194.7299771634614,
     "params": [
       "Enter user id"
     ],
@@ -12692,7 +12746,7 @@
   {
     "id": 865,
     "name": "Pawa live 1m",
-    "price": 3984.434278846154,
+    "price": 3982.433257211538,
     "params": [
       "Enter user id"
     ],
@@ -12710,7 +12764,7 @@
   {
     "id": 866,
     "name": "Pawa live 2m",
-    "price": 7968.868557692308,
+    "price": 7964.866514423076,
     "params": [
       "Enter user id"
     ],
@@ -13052,7 +13106,7 @@
   {
     "id": 891,
     "name": "Wasla chat100k",
-    "price": 1487.2325692771085,
+    "price": 1486.480378012048,
     "params": [
       "Enter user id"
     ],
@@ -13070,7 +13124,7 @@
   {
     "id": 892,
     "name": "Wasla chat 350k",
-    "price": 5205.31399246988,
+    "price": 5202.6813230421685,
     "params": [
       "Enter user id"
     ],
@@ -13088,7 +13142,7 @@
   {
     "id": 893,
     "name": "Wasla chat 500k",
-    "price": 7436.162846385543,
+    "price": 7432.4018900602405,
     "params": [
       "Enter user id"
     ],
@@ -13106,7 +13160,7 @@
   {
     "id": 894,
     "name": "Wasla chat 1m",
-    "price": 14872.325692771086,
+    "price": 14864.803780120481,
     "params": [
       "Enter user id"
     ],
@@ -13291,7 +13345,7 @@
       "Enter user id"
     ],
     "category_name": "تانغو باقات",
-    "available": true,
+    "available": false,
     "qty_values": {
       "min": 1,
       "max": "50"
@@ -13309,7 +13363,7 @@
       "Enter user id"
     ],
     "category_name": "تانغو باقات",
-    "available": true,
+    "available": false,
     "qty_values": {
       "min": 1,
       "max": "50"
@@ -13327,7 +13381,7 @@
       "Enter user id"
     ],
     "category_name": "تانغو باقات",
-    "available": true,
+    "available": false,
     "qty_values": {
       "min": 1,
       "max": "50"
@@ -13345,7 +13399,7 @@
       "Enter user id"
     ],
     "category_name": "تانغو باقات",
-    "available": true,
+    "available": false,
     "qty_values": {
       "min": 1,
       "max": "50"
@@ -13363,7 +13417,7 @@
       "Enter user id"
     ],
     "category_name": "تانغو باقات",
-    "available": true,
+    "available": false,
     "qty_values": {
       "min": 1,
       "max": "50"
@@ -13381,7 +13435,7 @@
       "Enter user id"
     ],
     "category_name": "تانغو باقات",
-    "available": true,
+    "available": false,
     "qty_values": {
       "min": 1,
       "max": "50"
@@ -13394,7 +13448,7 @@
   {
     "id": 919,
     "name": "Boli chat 6090k",
-    "price": 370.42660622324723,
+    "price": 370.23954097416976,
     "params": [
       "Enter user id"
     ],
@@ -13412,7 +13466,7 @@
   {
     "id": 920,
     "name": "Boli chat 30990",
-    "price": 1884.9787400424354,
+    "price": 1884.0268267306274,
     "params": [
       "Enter user id"
     ],
@@ -13430,7 +13484,7 @@
   {
     "id": 921,
     "name": "Boli chat 61990",
-    "price": 3770.5657339538743,
+    "price": 3768.661600162362,
     "params": [
       "Enter user id"
     ],
@@ -13448,7 +13502,7 @@
   {
     "id": 922,
     "name": "Boli chat 122990",
-    "price": 7480.914334876384,
+    "price": 7477.13647691513,
     "params": [
       "Enter user id"
     ],
@@ -13466,7 +13520,7 @@
   {
     "id": 923,
     "name": "Boli chat 153000",
-    "price": 9306.284195756458,
+    "price": 9301.58452693727,
     "params": [
       "Enter user id"
     ],
@@ -13556,7 +13610,7 @@
   {
     "id": 928,
     "name": "Hapi 33535",
-    "price": 173.76013490800415,
+    "price": 174.4043358089657,
     "params": [
       "Enter user id"
     ],
@@ -13574,7 +13628,7 @@
   {
     "id": 929,
     "name": "Hapi 67435",
-    "price": 349.4115013425156,
+    "price": 350.70691472424636,
     "params": [
       "Enter user id"
     ],
@@ -13592,7 +13646,7 @@
   {
     "id": 930,
     "name": "Hapi 336235",
-    "price": 1742.186937849792,
+    "price": 1748.6459475392153,
     "params": [
       "Enter user id"
     ],
@@ -13610,7 +13664,7 @@
   {
     "id": 931,
     "name": "Hapi 672435",
-    "price": 3484.192524731289,
+    "price": 3497.109871766866,
     "params": [
       "Enter user id"
     ],
@@ -13628,7 +13682,7 @@
   {
     "id": 932,
     "name": "Hapi 2017535",
-    "price": 10453.769309128378,
+    "price": 10492.52576849088,
     "params": [
       "Enter user id"
     ],
@@ -13646,7 +13700,7 @@
   {
     "id": 933,
     "name": "Hapi 3362535",
-    "price": 17422.827947901766,
+    "price": 17487.42159861042,
     "params": [
       "Enter user id"
     ],
@@ -13664,7 +13718,7 @@
   {
     "id": 934,
     "name": "Hapi 6724535",
-    "price": 34842.883816716734,
+    "price": 34972.06084088693,
     "params": [
       "Enter user id"
     ],
@@ -13874,7 +13928,7 @@
   {
     "id": 959,
     "name": "Nawa live 500k",
-    "price": 540.3195,
+    "price": 537.6168214285714,
     "params": [
       "Enter user id"
     ],
@@ -13892,7 +13946,7 @@
   {
     "id": 960,
     "name": "Nawa live 1250000k",
-    "price": 1350.79875,
+    "price": 1344.0420535714286,
     "params": [
       "Enter user id"
     ],
@@ -13910,7 +13964,7 @@
   {
     "id": 961,
     "name": "Nawa live 2500000k",
-    "price": 2701.5975,
+    "price": 2688.084107142857,
     "params": [
       "Enter user id"
     ],
@@ -13928,7 +13982,7 @@
   {
     "id": 962,
     "name": "Nawa live 4000000",
-    "price": 4322.556,
+    "price": 4300.934571428571,
     "params": [
       "Enter user id"
     ],
@@ -14108,7 +14162,7 @@
   {
     "id": 1000,
     "name": "Roka live 50k",
-    "price": 39.1276627466774,
+    "price": 38.36731643173581,
     "params": [
       "Enter user id"
     ],
@@ -14126,7 +14180,7 @@
   {
     "id": 1001,
     "name": "Roka live 150k",
-    "price": 117.38298824003222,
+    "price": 115.10194929520742,
     "params": [
       "Enter user id"
     ],
@@ -14144,7 +14198,7 @@
   {
     "id": 1002,
     "name": "Roka live 500k",
-    "price": 391.276627466774,
+    "price": 383.67316431735804,
     "params": [
       "Enter user id"
     ],
@@ -14162,7 +14216,7 @@
   {
     "id": 1003,
     "name": "Roka live 1m500k",
-    "price": 1173.829882400322,
+    "price": 1151.0194929520742,
     "params": [
       "Enter user id"
     ],
@@ -14180,7 +14234,7 @@
   {
     "id": 1004,
     "name": "Roka live 5m",
-    "price": 3912.7662746677406,
+    "price": 3836.731643173581,
     "params": [
       "Enter user id"
     ],
@@ -14198,7 +14252,7 @@
   {
     "id": 1005,
     "name": "Roka live 10m",
-    "price": 7825.532549335481,
+    "price": 7673.463286347162,
     "params": [
       "Enter user id"
     ],
@@ -14215,8 +14269,8 @@
   },
   {
     "id": 1010,
-    "name": "Tayyeb chat 500k",
-    "price": 18.089132298387096,
+    "name": "Tayyeb chat 10m",
+    "price": 35.98895504032258,
     "params": [
       "Enter user id"
     ],
@@ -14233,8 +14287,8 @@
   },
   {
     "id": 1011,
-    "name": "Tayyeb chat 2m500k",
-    "price": 90.44566149193548,
+    "name": "Tayyeb chat 5m",
+    "price": 179.94477520161288,
     "params": [
       "Enter user id"
     ],
@@ -14251,8 +14305,8 @@
   },
   {
     "id": 1012,
-    "name": "Tayyeb chat 10m",
-    "price": 361.7826459677419,
+    "name": "Tayyeb chat 20m",
+    "price": 719.7791008064515,
     "params": [
       "Enter user id"
     ],
@@ -14269,8 +14323,8 @@
   },
   {
     "id": 1013,
-    "name": "Tayyeb chat 25m",
-    "price": 904.4566149193547,
+    "name": "Tayyeb chat 50m",
+    "price": 1799.4477520161288,
     "params": [
       "Enter user id"
     ],
@@ -14287,8 +14341,8 @@
   },
   {
     "id": 1014,
-    "name": "Tayyeb chat 50m",
-    "price": 1808.9132298387094,
+    "name": "Tayyeb chat 100m",
+    "price": 3598.8955040322576,
     "params": [
       "Enter user id"
     ],
@@ -14305,8 +14359,8 @@
   },
   {
     "id": 1015,
-    "name": "Tayyeb chat 100m",
-    "price": 3617.826459677419,
+    "name": "Tayyeb chat 200m",
+    "price": 7197.791008064515,
     "params": [
       "Enter user id"
     ],
@@ -14960,7 +15014,7 @@
   {
     "id": 1073,
     "name": "Zafa50k",
-    "price": 36.47168207908163,
+    "price": 36.37208446538124,
     "params": [
       "Enter user id"
     ],
@@ -14978,7 +15032,7 @@
   {
     "id": 1074,
     "name": "Zafa 250k",
-    "price": 182.35841039540816,
+    "price": 181.86042232690622,
     "params": [
       "Enter user id"
     ],
@@ -14996,7 +15050,7 @@
   {
     "id": 1075,
     "name": "Zafa 1m",
-    "price": 729.4336415816326,
+    "price": 727.4416893076249,
     "params": [
       "Enter user id"
     ],
@@ -15014,7 +15068,7 @@
   {
     "id": 1076,
     "name": "Zafa 2m500k",
-    "price": 1823.5841039540815,
+    "price": 1818.6042232690622,
     "params": [
       "Enter user id"
     ],
@@ -15032,7 +15086,7 @@
   {
     "id": 1077,
     "name": "Zafa 5m",
-    "price": 3647.168207908163,
+    "price": 3637.2084465381245,
     "params": [
       "Enter user id"
     ],
@@ -15050,7 +15104,7 @@
   {
     "id": 1078,
     "name": "Zafa 10m",
-    "price": 7294.336415816326,
+    "price": 7274.416893076249,
     "params": [
       "Enter user id"
     ],
@@ -15068,7 +15122,7 @@
   {
     "id": 1079,
     "name": "Janku 40k",
-    "price": 39.100248315726525,
+    "price": 39.29570362204725,
     "params": [
       "Enter user id"
     ],
@@ -15086,7 +15140,7 @@
   {
     "id": 1080,
     "name": "Janku 200m",
-    "price": 195.50124157863263,
+    "price": 196.47851811023625,
     "params": [
       "Enter user id"
     ],
@@ -15104,7 +15158,7 @@
   {
     "id": 1081,
     "name": "Janku 800k",
-    "price": 782.0049663145305,
+    "price": 785.914072440945,
     "params": [
       "Enter user id"
     ],
@@ -15122,7 +15176,7 @@
   {
     "id": 1082,
     "name": "Janku 1m",
-    "price": 977.5062078931632,
+    "price": 982.3925905511812,
     "params": [
       "Enter user id"
     ],
@@ -15140,7 +15194,7 @@
   {
     "id": 1091,
     "name": "Mikoo 20k",
-    "price": 37.46059889828841,
+    "price": 37.73965697422781,
     "params": [
       "Enter user id"
     ],
@@ -15158,7 +15212,7 @@
   {
     "id": 1092,
     "name": "Mikoo 100k",
-    "price": 187.30299449144204,
+    "price": 188.6982848711391,
     "params": [
       "Enter user id"
     ],
@@ -15176,7 +15230,7 @@
   {
     "id": 1093,
     "name": "Mikoo 200k",
-    "price": 374.60598898288407,
+    "price": 377.3965697422782,
     "params": [
       "Enter user id"
     ],
@@ -15194,7 +15248,7 @@
   {
     "id": 1094,
     "name": "Mikoo 500k",
-    "price": 936.5149724572102,
+    "price": 943.4914243556954,
     "params": [
       "Enter user id"
     ],
@@ -15374,7 +15428,7 @@
   {
     "id": 1104,
     "name": "Amisu party 65k",
-    "price": 40.58071875,
+    "price": 37.10237142857143,
     "params": [
       "Enter user id"
     ],
@@ -15392,7 +15446,7 @@
   {
     "id": 1105,
     "name": "Amisu party 325k",
-    "price": 202.90359375000003,
+    "price": 185.51185714285714,
     "params": [
       "Enter user id"
     ],
@@ -15410,7 +15464,7 @@
   {
     "id": 1106,
     "name": "Amisu party 650k",
-    "price": 405.80718750000005,
+    "price": 371.0237142857143,
     "params": [
       "Enter user id"
     ],
@@ -15428,7 +15482,7 @@
   {
     "id": 1107,
     "name": "Amisu party 1m300k",
-    "price": 811.6143750000001,
+    "price": 742.0474285714286,
     "params": [
       "Enter user id"
     ],
@@ -15446,7 +15500,7 @@
   {
     "id": 1108,
     "name": "Amisu party 3m250k",
-    "price": 2029.0359375,
+    "price": 1855.1185714285716,
     "params": [
       "Enter user id"
     ],
@@ -15464,7 +15518,7 @@
   {
     "id": 1109,
     "name": "Amisu party 6m500k",
-    "price": 4058.071875,
+    "price": 3710.237142857143,
     "params": [
       "Enter user id"
     ],
@@ -15482,7 +15536,7 @@
   {
     "id": 1110,
     "name": "Leski 24k",
-    "price": 39.124780832526625,
+    "price": 39.12386625734813,
     "params": [
       "Enter user id"
     ],
@@ -15500,7 +15554,7 @@
   {
     "id": 1111,
     "name": "Leski 120k",
-    "price": 195.6239041626331,
+    "price": 195.61933128674067,
     "params": [
       "Enter user id"
     ],
@@ -15518,7 +15572,7 @@
   {
     "id": 1112,
     "name": "Leski 240k",
-    "price": 391.2478083252662,
+    "price": 391.23866257348135,
     "params": [
       "Enter user id"
     ],
@@ -15536,7 +15590,7 @@
   {
     "id": 1113,
     "name": "Leski 600k",
-    "price": 978.1195208131655,
+    "price": 978.0966564337034,
     "params": [
       "Enter user id"
     ],
@@ -15554,7 +15608,7 @@
   {
     "id": 1114,
     "name": "Leski 1m200k",
-    "price": 1956.239041626331,
+    "price": 1956.1933128674068,
     "params": [
       "Enter user id"
     ],
@@ -15572,7 +15626,7 @@
   {
     "id": 1115,
     "name": "Leski 2m400k",
-    "price": 3912.478083252662,
+    "price": 3912.3866257348136,
     "params": [
       "Enter user id"
     ],
@@ -15806,7 +15860,7 @@
   {
     "id": 1128,
     "name": "baat chat 10k",
-    "price": 49.32433756319515,
+    "price": 49.06678240647119,
     "params": [
       "Enter user id"
     ],
@@ -15824,7 +15878,7 @@
   {
     "id": 1129,
     "name": "baat chat 25k",
-    "price": 123.31084390798787,
+    "price": 122.66695601617798,
     "params": [
       "Enter user id"
     ],
@@ -15842,7 +15896,7 @@
   {
     "id": 1130,
     "name": "baat chat 50k",
-    "price": 246.62168781597575,
+    "price": 245.33391203235595,
     "params": [
       "Enter user id"
     ],
@@ -15860,7 +15914,7 @@
   {
     "id": 1131,
     "name": "baat chat 90k",
-    "price": 443.9190380687563,
+    "price": 441.6010416582407,
     "params": [
       "Enter user id"
     ],
@@ -15878,7 +15932,7 @@
   {
     "id": 1132,
     "name": "Karak chat 100k",
-    "price": 74.86310512618297,
+    "price": 73.08396836283185,
     "params": [
       "Enter user id"
     ],
@@ -15896,7 +15950,7 @@
   {
     "id": 1133,
     "name": "Karak chat 425k",
-    "price": 318.16819678627763,
+    "price": 310.60686554203534,
     "params": [
       "Enter user id"
     ],
@@ -15914,7 +15968,7 @@
   {
     "id": 1134,
     "name": "Karak chat 2m125k",
-    "price": 1590.840983931388,
+    "price": 1553.0343277101767,
     "params": [
       "Enter user id"
     ],
@@ -15932,7 +15986,7 @@
   {
     "id": 1135,
     "name": "Karak chat 3m400k",
-    "price": 2545.345574290221,
+    "price": 2484.8549243362827,
     "params": [
       "Enter user id"
     ],
@@ -15950,7 +16004,7 @@
   {
     "id": 1136,
     "name": "Karak chat 4m250k",
-    "price": 3181.681967862776,
+    "price": 3106.0686554203535,
     "params": [
       "Enter user id"
     ],
@@ -15968,7 +16022,7 @@
   {
     "id": 1137,
     "name": "Saada chat 1000",
-    "price": 54.98967440093513,
+    "price": 54.779500467562826,
     "params": [
       "Enter user id"
     ],
@@ -15986,7 +16040,7 @@
   {
     "id": 1138,
     "name": "Saada chat 3500",
-    "price": 192.46386040327295,
+    "price": 191.72825163646988,
     "params": [
       "Enter user id"
     ],
@@ -16004,7 +16058,7 @@
   {
     "id": 1139,
     "name": "Saada chat 17500",
-    "price": 962.3193020163648,
+    "price": 958.6412581823494,
     "params": [
       "Enter user id"
     ],
@@ -16022,7 +16076,7 @@
   {
     "id": 1140,
     "name": "Saada chat 35k",
-    "price": 1924.6386040327295,
+    "price": 1917.2825163646987,
     "params": [
       "Enter user id"
     ],
@@ -16040,7 +16094,7 @@
   {
     "id": 1141,
     "name": "Saada chat 70k",
-    "price": 3849.277208065459,
+    "price": 3834.5650327293974,
     "params": [
       "Enter user id"
     ],
@@ -16058,7 +16112,7 @@
   {
     "id": 1143,
     "name": "Bulala chat 75k",
-    "price": 28.28998831297573,
+    "price": 27.524078339147316,
     "params": [
       "Enter user id"
     ],
@@ -16076,7 +16130,7 @@
   {
     "id": 1144,
     "name": "Bulala chat 750k",
-    "price": 282.8998831297573,
+    "price": 275.24078339147314,
     "params": [
       "Enter user id"
     ],
@@ -16094,7 +16148,7 @@
   {
     "id": 1145,
     "name": "Bulala chat 1m500k",
-    "price": 565.7997662595146,
+    "price": 550.4815667829463,
     "params": [
       "Enter user id"
     ],
@@ -16112,7 +16166,7 @@
   {
     "id": 1146,
     "name": "Bulala chat 3m75k",
-    "price": 1414.4994156487867,
+    "price": 1376.2039169573657,
     "params": [
       "Enter user id"
     ],
@@ -16130,7 +16184,7 @@
   {
     "id": 1147,
     "name": "Bulala chat 7m500k",
-    "price": 2828.9988312975734,
+    "price": 2752.4078339147313,
     "params": [
       "Enter user id"
     ],
@@ -16148,7 +16202,7 @@
   {
     "id": 1152,
     "name": "Shabab chat 35k",
-    "price": 37.44498281028787,
+    "price": 37.23342533513514,
     "params": [
       "Enter user id"
     ],
@@ -16166,7 +16220,7 @@
   {
     "id": 1153,
     "name": "Shabab chat 210k",
-    "price": 224.6698968617272,
+    "price": 223.40055201081083,
     "params": [
       "Enter user id"
     ],
@@ -16184,7 +16238,7 @@
   {
     "id": 1154,
     "name": "Shabab chat 700m",
-    "price": 748.8996562057573,
+    "price": 744.6685067027028,
     "params": [
       "Enter user id"
     ],
@@ -16202,7 +16256,7 @@
   {
     "id": 1155,
     "name": "Shabab chat 1m750k",
-    "price": 1872.2491405143933,
+    "price": 1861.671266756757,
     "params": [
       "Enter user id"
     ],
@@ -16220,7 +16274,7 @@
   {
     "id": 1157,
     "name": "Soyo chat 10k",
-    "price": 39.07300039370078,
+    "price": 40.43846285488958,
     "params": [
       "Enter user id"
     ],
@@ -16238,7 +16292,7 @@
   {
     "id": 1158,
     "name": "Soyo chat 20k",
-    "price": 78.14600078740156,
+    "price": 80.87692570977916,
     "params": [
       "Enter user id"
     ],
@@ -16256,7 +16310,7 @@
   {
     "id": 1159,
     "name": "Soyo chat 50k",
-    "price": 195.36500196850392,
+    "price": 202.1923142744479,
     "params": [
       "Enter user id"
     ],
@@ -16274,7 +16328,7 @@
   {
     "id": 1160,
     "name": "Soyo chat 100k",
-    "price": 390.73000393700784,
+    "price": 404.3846285488958,
     "params": [
       "Enter user id"
     ],
@@ -16292,7 +16346,7 @@
   {
     "id": 1161,
     "name": "Soyo chat 200k",
-    "price": 781.4600078740157,
+    "price": 808.7692570977916,
     "params": [
       "Enter user id"
     ],
@@ -16580,7 +16634,7 @@
   {
     "id": 1184,
     "name": "Hiyoo5k",
-    "price": 121.7406253065228,
+    "price": 121.74702613104526,
     "params": [
       "Enter user id"
     ],
@@ -16598,7 +16652,7 @@
   {
     "id": 1185,
     "name": "Hiyoo 10k",
-    "price": 243.4812506130456,
+    "price": 243.49405226209052,
     "params": [
       "Enter user id"
     ],
@@ -16616,7 +16670,7 @@
   {
     "id": 1186,
     "name": "Hiyoo 15k",
-    "price": 365.2218759195684,
+    "price": 365.2410783931358,
     "params": [
       "Enter user id"
     ],
@@ -16634,7 +16688,7 @@
   {
     "id": 1187,
     "name": "Hiyoo 70600",
-    "price": 1718.977629328102,
+    "price": 1719.0680089703592,
     "params": [
       "Enter user id"
     ],
@@ -16652,7 +16706,7 @@
   {
     "id": 1188,
     "name": "Hiyoo 141600",
-    "price": 3447.694508680726,
+    "price": 3447.875780031202,
     "params": [
       "Enter user id"
     ],
@@ -16724,7 +16778,7 @@
   {
     "id": 1192,
     "name": "Binmo 5k",
-    "price": 94.52829612270985,
+    "price": 97.59738995807926,
     "params": [
       "Enter user id"
     ],
@@ -16742,7 +16796,7 @@
   {
     "id": 1193,
     "name": "Binmo 10k",
-    "price": 189.0565922454197,
+    "price": 195.19477991615852,
     "params": [
       "Enter user id"
     ],
@@ -16760,7 +16814,7 @@
   {
     "id": 1194,
     "name": "Binmo 20k",
-    "price": 378.1131844908394,
+    "price": 390.38955983231705,
     "params": [
       "Enter user id"
     ],
@@ -17120,7 +17174,7 @@
   {
     "id": 1215,
     "name": "Oyone 60k",
-    "price": 40.38719676549865,
+    "price": 34.992476957547176,
     "params": [
       "Enter user id"
     ],
@@ -17138,7 +17192,7 @@
   {
     "id": 1216,
     "name": "Oyone 300k",
-    "price": 201.93598382749326,
+    "price": 174.96238478773586,
     "params": [
       "Enter user id"
     ],
@@ -17156,7 +17210,7 @@
   {
     "id": 1217,
     "name": "Oyone 600k",
-    "price": 403.8719676549865,
+    "price": 349.9247695754717,
     "params": [
       "Enter user id"
     ],
@@ -17174,7 +17228,7 @@
   {
     "id": 1218,
     "name": "Oyone 3m",
-    "price": 2019.3598382749326,
+    "price": 1749.6238478773587,
     "params": [
       "Enter user id"
     ],
@@ -17192,7 +17246,7 @@
   {
     "id": 1219,
     "name": "Oyone 6m",
-    "price": 4038.719676549865,
+    "price": 3499.2476957547174,
     "params": [
       "Enter user id"
     ],
@@ -17552,7 +17606,7 @@
   {
     "id": 1239,
     "name": "Oyone 1,200,000",
-    "price": 807.743935309973,
+    "price": 699.8495391509434,
     "params": [
       "Enter user id"
     ],
@@ -17732,7 +17786,7 @@
   {
     "id": 1259,
     "name": "Waww chat 125k",
-    "price": 183.0815198483497,
+    "price": 182.70961369622475,
     "params": [
       "Enter user id"
     ],
@@ -17750,7 +17804,7 @@
   {
     "id": 1260,
     "name": "Waww chat 250k",
-    "price": 366.1630396966994,
+    "price": 365.4192273924495,
     "params": [
       "Enter user id"
     ],
@@ -17768,7 +17822,7 @@
   {
     "id": 1261,
     "name": "Waww chat 425k",
-    "price": 622.4771674843889,
+    "price": 621.2126865671642,
     "params": [
       "Enter user id"
     ],
@@ -17786,7 +17840,7 @@
   {
     "id": 1262,
     "name": "Waww chat 500k",
-    "price": 732.3260793933988,
+    "price": 730.838454784899,
     "params": [
       "Enter user id"
     ],
@@ -17948,7 +18002,7 @@
   {
     "id": 1271,
     "name": "Niu chat  100k",
-    "price": 43.43086956521739,
+    "price": 42.92694456381607,
     "params": [
       "Enter user id"
     ],
@@ -17966,7 +18020,7 @@
   {
     "id": 1272,
     "name": "Niu chat  500k",
-    "price": 217.15434782608696,
+    "price": 214.63472281908037,
     "params": [
       "Enter user id"
     ],
@@ -17984,7 +18038,7 @@
   {
     "id": 1273,
     "name": "Niu chat  1m",
-    "price": 434.3086956521739,
+    "price": 429.26944563816073,
     "params": [
       "Enter user id"
     ],
@@ -18002,7 +18056,7 @@
   {
     "id": 1274,
     "name": "Niu chat  5m",
-    "price": 2171.5434782608695,
+    "price": 2146.3472281908034,
     "params": [
       "Enter user id"
     ],
@@ -18020,7 +18074,7 @@
   {
     "id": 1275,
     "name": "Niu chat  100m",
-    "price": 43430.86956521739,
+    "price": 42926.944563816076,
     "params": [
       "Enter user id"
     ],
@@ -18036,17 +18090,257 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 1280,
-    "name": "Helili Chat",
-    "price": 0.0008004086538461538,
+    "id": 1284,
+    "name": "Majlis chat 500k",
+    "price": 25725.8142746114,
     "params": [
-      "Entee user id"
+      "Enter user id"
     ],
-    "category_name": "Helili Chat",
+    "category_name": "مجلس شات باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 98,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1285,
+    "name": "Majlis chat 1m",
+    "price": 51451.6285492228,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "مجلس شات باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 98,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1286,
+    "name": "Waww chat 1m500k",
+    "price": 2192.515364354697,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "واو شات باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 164,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1287,
+    "name": "Waww chat 4m",
+    "price": 5846.707638279192,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "واو شات باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 164,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1288,
+    "name": "Naddy chat 1m",
+    "price": 2134.423076923077,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "نادي ستار باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 165,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1289,
+    "name": "Naddy chat 2m500k",
+    "price": 5336.057692307693,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "نادي ستار باقات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 165,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1290,
+    "name": "Litme 3k",
+    "price": 27.543071435100547,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات ليت مي",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 168,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1291,
+    "name": "Litme 6k",
+    "price": 55.086142870201094,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات ليت مي",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 168,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1292,
+    "name": "Litme 12200",
+    "price": 112.00849050274223,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات ليت مي",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 168,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1293,
+    "name": "Litme 49k",
+    "price": 449.87016677330894,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات ليت مي",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 168,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1294,
+    "name": "Litme 164k",
+    "price": 1505.68790511883,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات ليت مي",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 168,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1295,
+    "name": "Litme 530k",
+    "price": 4865.942620201097,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات ليت مي",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 168,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1296,
+    "name": "Sooha chat 40k",
+    "price": 36.14001447178003,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات سوها شات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 169,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1297,
+    "name": "Sooha chat 200k",
+    "price": 180.70007235890014,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات سوها شات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 169,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1298,
+    "name": "Sooha chat 400k",
+    "price": 361.4001447178003,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات سوها شات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 169,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1299,
+    "name": "Sooha chat 800k",
+    "price": 722.8002894356006,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات سوها شات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 169,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1300,
+    "name": "Lit me",
+    "price": 0.009181023811700183,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "Lit me",
     "available": true,
     "qty_values": {
-      "min": "60000",
-      "max": "5000000000000000000"
+      "min": "5000",
+      "max": "50000000000000"
     },
     "product_type": "amount",
     "parent_id": 0,
@@ -18054,15 +18348,32 @@
     "category_img": "https://api.quick4store.com/"
   },
   {
-    "id": 1281,
-    "name": "Sohha chat",
-    "price": 0.00104053125,
-    "params": [],
-    "category_name": "Sohha chat",
+    "id": 1303,
+    "name": "Sooha 2m",
+    "price": 1807.0007235890014,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات سوها شات",
     "available": true,
     "qty_values": null,
     "product_type": "package",
-    "parent_id": 0,
+    "parent_id": 169,
+    "base_price": null,
+    "category_img": "https://api.quick4store.com/"
+  },
+  {
+    "id": 1304,
+    "name": "Sooha 4m",
+    "price": 3614.0014471780028,
+    "params": [
+      "Enter user id"
+    ],
+    "category_name": "باقات سوها شات",
+    "available": true,
+    "qty_values": null,
+    "product_type": "package",
+    "parent_id": 169,
     "base_price": null,
     "category_img": "https://api.quick4store.com/"
   }
